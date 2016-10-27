@@ -1,0 +1,21 @@
+Topic 10
+Words: phillip  allen  forwarded  2001  tim  meeting  hunter  shively  keith  attached  holst  john  heizenrader  austin  2000  strategy  lucy  jeff  pallen  lavorato
+===Basic Graph Information===
+	Nodes: 414
+	Edges: 610
+	Average degree: 1.4734299516908214
+	Density: 0.0035676270016726905
+===Top 3 Author/Recipient Pairs for Topic
+phillip.allen@enron.com-----ina.rangel@enron.com	7.12454864296
+phillip.allen@enron.com-----pallen70@hotmail.com	6.1834551779
+phillip.allen@enron.com-----keith.holst@enron.com	4.43032000532
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0      74          0.179177  0.038741   0.140436   0.440176    0.041999
+    mike.grigsby@enron.com            0      84          0.203390  0.050847   0.152542   0.453720    0.044917
+   jay.reitmeyer@enron.com            0      10          0.024213  0.016949   0.007264   0.296400    0.001215
+   phillip.allen@enron.com            0     260          0.629540  0.084746   0.544794   0.615695    0.123551
+    jane.m.tholt@enron.com            0       8          0.019370  0.012107   0.007264   0.311423    0.002974
+     frank.ermis@enron.com            0      21          0.050847  0.031477   0.019370   0.299105    0.012378
+     keith.holst@enron.com            0      35          0.084746  0.016949   0.067797   0.330996    0.013220
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

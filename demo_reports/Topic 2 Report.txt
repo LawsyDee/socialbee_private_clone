@@ -1,0 +1,21 @@
+Topic 2
+Words: going  tonight  tomorrow  game  think  still  guys  denver  woody  everything  golf  lunch  week  work  vegas  party  weekend  thought  car  haven
+===Basic Graph Information===
+	Nodes: 361
+	Edges: 476
+	Average degree: 1.3185595567867037
+	Density: 0.003662665435518621
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	5.19376682041
+matthew.lenhart@enron.com-----jilallen@deloitte.com	5.03775115441
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	4.39258726753
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     145          0.402778  0.088889   0.313889   0.443520    0.106646
+    mike.grigsby@enron.com            0      72          0.200000  0.041667   0.158333   0.464492    0.077836
+   jay.reitmeyer@enron.com            0      15          0.041667  0.027778   0.013889   0.304506    0.013626
+   phillip.allen@enron.com            0      59          0.163889  0.016667   0.147222   0.458867    0.030907
+    jane.m.tholt@enron.com            0       7          0.019444  0.016667   0.002778   0.002778    0.000580
+     frank.ermis@enron.com            0      13          0.036111  0.027778   0.008333   0.008889    0.001874
+     keith.holst@enron.com            0      71          0.197222  0.041667   0.155556   0.427093    0.057721
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

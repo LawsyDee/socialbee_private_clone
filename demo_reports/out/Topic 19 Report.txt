@@ -1,0 +1,21 @@
+Topic 19
+Words: good  looks  sounds  think  got  like  retraction  parody  concession  temptation  election  island  time  night  audio  pretty  one  luck  otto  thank
+===Basic Graph Information===
+	Nodes: 424
+	Edges: 598
+	Average degree: 1.4103773584905661
+	Density: 0.003334225433783844
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	3.83543703417
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	3.47497221947
+matthew.lenhart@enron.com-----erichardson@sarofim.com	3.09252702975
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.226500     154          0.364066  0.082742   0.281324   0.435919    0.119537
+1     mike.grigsby@enron.com     0.031681      76          0.179669  0.044917   0.134752   0.428052    0.088016
+2    jay.reitmeyer@enron.com     0.061696      25          0.059102  0.033097   0.026005   0.258307    0.020559
+3    phillip.allen@enron.com     0.002835      55          0.130024  0.007092   0.122931   0.407815    0.025752
+4     jane.m.tholt@enron.com     0.000006       6          0.014184  0.014184   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.005404      18          0.042553  0.023641   0.018913   0.290464    0.011456
+6      keith.holst@enron.com     0.002456      15          0.035461  0.018913   0.016548   0.179593    0.012554
+7  tori.kuykendall@enron.com     0.018026      78          0.184397  0.044917   0.139480   0.332930    0.074646

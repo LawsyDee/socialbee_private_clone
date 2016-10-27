@@ -1,0 +1,21 @@
+Topic 9
+Words: mike  grigsby  thanks  thank  please  sincerely  ina  anne  desk  original  2001  keith  west  jay  add  holst  positions  reitmeyer  monique  tuesday
+===Basic Graph Information===
+	Nodes: 597
+	Edges: 951
+	Average degree: 1.592964824120603
+	Density: 0.0026727597720144344
+===Top 3 Author/Recipient Pairs for Topic
+mike.grigsby@enron.com-----anne.bike@enron.com	7.35011617115
+mike.grigsby@enron.com-----ina.rangel@enron.com	7.26713833752
+mike.grigsby@enron.com-----melba.lozano@enron.com	4.12139933547
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     106          0.177852  0.040268   0.137584   0.368226    0.040239
+    mike.grigsby@enron.com            0     228          0.382550  0.080537   0.302013   0.482050    0.101706
+   jay.reitmeyer@enron.com            0      44          0.073826  0.038591   0.035235   0.315411    0.018078
+   phillip.allen@enron.com            0     136          0.228188  0.023490   0.204698   0.448881    0.044421
+    jane.m.tholt@enron.com            0      31          0.052013  0.033557   0.018456   0.310654    0.015182
+     frank.ermis@enron.com            0      36          0.060403  0.040268   0.020134   0.331435    0.019746
+     keith.holst@enron.com            0      94          0.157718  0.026846   0.130872   0.389090    0.032063
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

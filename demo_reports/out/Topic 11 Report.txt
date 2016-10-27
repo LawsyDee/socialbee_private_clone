@@ -1,0 +1,21 @@
+Topic 11
+Words: pdx  na  sf  enron_development  generation  corp  jim  motley  jeff  2001  tim  michael  belden  new  matt  swerzbin  parquet  laird  mainzer  buerkle
+===Basic Graph Information===
+	Nodes: 277
+	Edges: 400
+	Average degree: 1.444043321299639
+	Density: 0.005232041019201591
+===Top 3 Author/Recipient Pairs for Topic
+phillip.allen@enron.com-----keith.holst@enron.com	5.82860758203
+phillip.allen@enron.com-----mike.grigsby@enron.com	4.22198429643
+phillip.allen@enron.com-----frank.ermis@enron.com	2.00176307676
+===Network Data for Selected Users===
+                        Node   Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com  3.265082e-01      90          0.326087  0.057971   0.268116   0.388430    0.058152
+1     mike.grigsby@enron.com  3.726886e-01      61          0.221014  0.057971   0.163043   0.392434    0.068264
+2    jay.reitmeyer@enron.com  2.532337e-01      12          0.043478  0.032609   0.010870   0.258514    0.005493
+3    phillip.allen@enron.com  9.326630e-02      62          0.224638  0.043478   0.181159   0.371377    0.038654
+4     jane.m.tholt@enron.com  5.926500e-18       1          0.003623  0.003623   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com  1.880028e-01       9          0.032609  0.032609   0.000000   0.000000    0.000000
+6      keith.holst@enron.com  4.623311e-01      10          0.036232  0.028986   0.007246   0.192253    0.005585
+7  tori.kuykendall@enron.com  1.895103e-01      28          0.101449  0.025362   0.076087   0.315247    0.016516

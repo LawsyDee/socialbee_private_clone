@@ -1,0 +1,21 @@
+Topic 5
+Words: intended  recipient  mail  corp  confidential  use  contract  disclosure  prohibited  distribution  attachments  delete  strictly  may  sender  privileged  contain  party  reply  otherwise
+===Basic Graph Information===
+	Nodes: 502
+	Edges: 698
+	Average degree: 1.3904382470119523
+	Density: 0.002775325842339226
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----erichardson@sarofim.com	6.95970658585
+matthew.lenhart@enron.com-----jilallen@deloitte.com	5.63644052046
+jilallen@deloitte.com-----matthew.lenhart@enron.com	3.72494380634
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     123          0.245509  0.065868   0.179641   0.305766    0.073523
+    mike.grigsby@enron.com            0      67          0.133733  0.037924   0.095808   0.347894    0.074828
+   jay.reitmeyer@enron.com            0      25          0.049900  0.035928   0.013972   0.234126    0.018742
+   phillip.allen@enron.com            0     105          0.209581  0.043912   0.165669   0.365776    0.066687
+    jane.m.tholt@enron.com            0      13          0.025948  0.019960   0.005988   0.003992    0.001022
+     frank.ermis@enron.com            0      17          0.033932  0.027944   0.005988   0.239621    0.011412
+     keith.holst@enron.com            0      75          0.149701  0.039920   0.109780   0.289554    0.045453
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

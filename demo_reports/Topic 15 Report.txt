@@ -1,0 +1,21 @@
+Topic 15
+Words: get  back  chance  need  together  today  send  didn  try  around  week  time  tickets  hope  tomorrow  one  lucy  explorer  see  like
+===Basic Graph Information===
+	Nodes: 575
+	Edges: 829
+	Average degree: 1.4417391304347826
+	Density: 0.0025117406453567643
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	6.48699255309
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	3.69858272729
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	3.57158412743
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     207          0.360627  0.076655   0.283972   0.424693    0.097829
+    mike.grigsby@enron.com            0     107          0.186411  0.055749   0.130662   0.413688    0.052552
+   jay.reitmeyer@enron.com            0      36          0.062718  0.033101   0.029617   0.365095    0.021939
+   phillip.allen@enron.com            0     109          0.189895  0.034843   0.155052   0.422649    0.045875
+    jane.m.tholt@enron.com            0      13          0.022648  0.017422   0.005226   0.249447    0.003141
+     frank.ermis@enron.com            0      18          0.031359  0.024390   0.006969   0.006969    0.001058
+     keith.holst@enron.com            0     112          0.195122  0.048780   0.146341   0.421129    0.063876
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

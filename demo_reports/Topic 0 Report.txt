@@ -1,0 +1,21 @@
+Topic 0
+Words: lenhart  matthew  sarofim  erichardson  2001  original  october  erin  richardson  thursday  friday  tuesday  wednesday  imceanotes  nron  recipient  may  intended  think  file
+===Basic Graph Information===
+	Nodes: 267
+	Edges: 405
+	Average degree: 1.5168539325842696
+	Density: 0.005702458393173946
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----erichardson@sarofim.com	20.6390668526
+erichardson@sarofim.com-----matthew.lenhart@enron.com	2.56181885455
+matthew.lenhart@enron.com-----jilallen@deloitte.com	1.80665090077
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     135          0.507519  0.135338   0.372180   0.538652    0.157152
+    mike.grigsby@enron.com            0      74          0.278195  0.071429   0.206767   0.482021    0.101515
+   jay.reitmeyer@enron.com            0      14          0.052632  0.030075   0.022556   0.315940    0.029745
+   phillip.allen@enron.com            0      45          0.169173  0.022556   0.146617   0.353309    0.035615
+    jane.m.tholt@enron.com            0       9          0.033835  0.030075   0.003759   0.231665    0.009826
+     frank.ermis@enron.com            0      13          0.048872  0.022556   0.026316   0.331339    0.012086
+     keith.holst@enron.com            0      41          0.154135  0.033835   0.120301   0.397473    0.044677
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

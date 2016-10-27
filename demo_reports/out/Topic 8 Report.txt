@@ -1,0 +1,21 @@
+Topic 8
+Words: outages  sat  thru  scheduled  2001  fri  london  pager  sun  outage  backout  environments  impacted  server  purpose  center  impact  data  time  contact
+===Basic Graph Information===
+	Nodes: 287
+	Edges: 377
+	Average degree: 1.3135888501742161
+	Density: 0.004592968007602154
+===Top 3 Author/Recipient Pairs for Topic
+enron.announcements@enron.com-----houston.report@enron.com	11.8622464978
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	1.28611275424
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	0.728369640807
+===Network Data for Selected Users===
+                        Node   Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com  2.583250e-01      93          0.325175  0.080420   0.244755   0.336478    0.066750
+1     mike.grigsby@enron.com  8.049242e-02      55          0.192308  0.062937   0.129371   0.339404    0.063581
+2    jay.reitmeyer@enron.com  5.410802e-02      12          0.041958  0.031469   0.010490   0.224749    0.008459
+3    phillip.allen@enron.com  2.207509e-02      40          0.139860  0.010490   0.129371   0.327996    0.018770
+4     jane.m.tholt@enron.com -3.868401e-18       4          0.013986  0.013986   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com  1.252945e-02       8          0.027972  0.020979   0.006993   0.252904    0.004490
+6      keith.holst@enron.com  1.577796e-02      13          0.045455  0.027972   0.017483   0.180981    0.004867
+7  tori.kuykendall@enron.com  1.359124e-02      35          0.122378  0.027972   0.094406   0.292736    0.023123

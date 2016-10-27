@@ -1,0 +1,21 @@
+Topic 10
+Words: get  back  chance  didn  need  together  around  try  week  today  time  want  send  go  one  tickets  like  tomorrow  last  hope
+===Basic Graph Information===
+	Nodes: 574
+	Edges: 846
+	Average degree: 1.4738675958188154
+	Density: 0.002572194757100899
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	6.85389413717
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	3.92485292016
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	3.92225722139
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.227082     208          0.363002  0.076789   0.286213   0.410727    0.094902
+1     mike.grigsby@enron.com     0.012876     111          0.193717  0.059337   0.134380   0.411696    0.070240
+2    jay.reitmeyer@enron.com     0.053129      37          0.064572  0.034904   0.029668   0.355099    0.022924
+3    phillip.allen@enron.com     0.006920      75          0.130890  0.017452   0.113438   0.390052    0.022985
+4     jane.m.tholt@enron.com     0.000013       8          0.013962  0.013962   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.012086      14          0.024433  0.017452   0.006981   0.244878    0.003521
+6      keith.holst@enron.com     0.003676      20          0.034904  0.026178   0.008726   0.008975    0.002044
+7  tori.kuykendall@enron.com     0.011487     110          0.191972  0.048866   0.143106   0.398978    0.057608

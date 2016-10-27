@@ -1,0 +1,850 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="jason.huang@enron.com" label="jason.huang@enron.com" />
+      <node id="lpearson@tenaska.com" label="lpearson@tenaska.com" />
+      <node id="'hutcheson@enron.com" label="'hutcheson@enron.com" />
+      <node id="gtcalendar@socalgas.com" label="gtcalendar@socalgas.com" />
+      <node id="jperdew@apbenergy.com" label="jperdew@apbenergy.com" />
+      <node id="chris.gaskill@enron.com" label="chris.gaskill@enron.com" />
+      <node id="paul.lucci@enron.com" label="paul.lucci@enron.com" />
+      <node id="jwills3@swbell.net" label="jwills3@swbell.net" />
+      <node id="britt.davis@enron.com" label="britt.davis@enron.com" />
+      <node id="diane_hoyuela@foleys.com" label="diane_hoyuela@foleys.com" />
+      <node id="jilallen@dttus.com" label="jilallen@dttus.com" />
+      <node id="tori.kuykendall@enron.com" label="tori.kuykendall@enron.com" />
+      <node id="david.oxley@enron.com" label="david.oxley@enron.com" />
+      <node id="strawbale@crest.org" label="strawbale@crest.org" />
+      <node id="lisa.gillette@enron.com" label="lisa.gillette@enron.com" />
+      <node id="hlenhart@email.msn.com" label="hlenhart@email.msn.com" />
+      <node id="cweyman@astraoil.com" label="cweyman@astraoil.com" />
+      <node id="hadix.susan@epenergy.com" label="hadix.susan@epenergy.com" />
+      <node id="celestine.hollan@enron.com" label="celestine.hollan@enron.com" />
+      <node id="dipak.agarwalla@enron.com" label="dipak.agarwalla@enron.com" />
+      <node id="jacquestc@aol.com" label="jacquestc@aol.com" />
+      <node id="eric.bass@enron.com" label="eric.bass@enron.com" />
+      <node id="fermis@ect.enron.com" label="fermis@ect.enron.com" />
+      <node id="my-register@yahoo-inc.com" label="my-register@yahoo-inc.com" />
+      <node id="tracy.cummins@nesanet.org" label="tracy.cummins@nesanet.org" />
+      <node id="mlenhart@houston.rr.com" label="mlenhart@houston.rr.com" />
+      <node id="mark.scott@enron.com" label="mark.scott@enron.com" />
+      <node id="kholst@enron.com" label="kholst@enron.com" />
+      <node id="jmalisz@uswest.com" label="jmalisz@uswest.com" />
+      <node id="shelliott@dttus.com" label="shelliott@dttus.com" />
+      <node id="orsi@tconl.com" label="orsi@tconl.com" />
+      <node id="martin.kovacs@travelpark.com" label="martin.kovacs@travelpark.com" />
+      <node id="custo@coair.com" label="custo@coair.com" />
+      <node id="allatham@realtor.com" label="allatham@realtor.com" />
+      <node id="matt.motley@enron.com" label="matt.motley@enron.com" />
+      <node id="mbp1832@aol.com" label="mbp1832@aol.com" />
+      <node id="sbaird@socalgas.com" label="sbaird@socalgas.com" />
+      <node id="w.kent.baker@accenture.com" label="w.kent.baker@accenture.com" />
+      <node id="bobregon@bga.com" label="bobregon@bga.com" />
+      <node id="donna.jones@enron.com" label="donna.jones@enron.com" />
+      <node id="julie.gomez@enron.com" label="julie.gomez@enron.com" />
+      <node id="curtis.hutcheson@compaq.com" label="curtis.hutcheson@compaq.com" />
+      <node id="vladimir.gorny@enron.com" label="vladimir.gorny@enron.com" />
+      <node id="brian.vassigh@enron.com" label="brian.vassigh@enron.com" />
+      <node id="promotions@usairways.com" label="promotions@usairways.com" />
+      <node id="kimberly.soulant@wcom.com" label="kimberly.soulant@wcom.com" />
+      <node id="mlenhart@alltel.net" label="mlenhart@alltel.net" />
+      <node id="dutch.quigley@enron.com" label="dutch.quigley@enron.com" />
+      <node id="barry.tycholiz@enron.com" label="barry.tycholiz@enron.com" />
+      <node id="tec@editingco.com" label="tec@editingco.com" />
+      <node id="ed.mcmichael@enron.com" label="ed.mcmichael@enron.com" />
+      <node id="kevin.mcgowan@enron.com" label="kevin.mcgowan@enron.com" />
+      <node id="stadogb@email.msn.com" label="stadogb@email.msn.com" />
+      <node id="thomas.engels@parexel.com" label="thomas.engels@parexel.com" />
+      <node id="hargr@webtv.net" label="hargr@webtv.net" />
+      <node id="shirley.s.elliott@citicorp.com" label="shirley.s.elliott@citicorp.com" />
+      <node id="jtholt@ect.enron.com" label="jtholt@ect.enron.com" />
+      <node id="heather.alon@enron.com" label="heather.alon@enron.com" />
+      <node id="swatch@babybedding.com" label="swatch@babybedding.com" />
+      <node id="lodonnell@spbank.com" label="lodonnell@spbank.com" />
+      <node id="micah.hatten@enron.com" label="micah.hatten@enron.com" />
+      <node id="ccates@mail.lbjs.com" label="ccates@mail.lbjs.com" />
+      <node id="enl-dailyupdate-txt@estutenws11.energy.williams.com" label="enl-dailyupdate-txt@estutenws11.energy.williams.com" />
+      <node id="jpelti@lsuhsc.edu" label="jpelti@lsuhsc.edu" />
+      <node id="kirk.mcdaniel@enron.com" label="kirk.mcdaniel@enron.com" />
+      <node id="esavers@usairways.com" label="esavers@usairways.com" />
+      <node id="kevin.a.boone@accenture.com" label="kevin.a.boone@accenture.com" />
+      <node id="brian.r.vassigh@accenture.com" label="brian.r.vassigh@accenture.com" />
+      <node id="all.states@enron.com" label="all.states@enron.com" />
+      <node id="pederleifkjeseth@hotmail.com" label="pederleifkjeseth@hotmail.com" />
+      <node id="bill_alison@kindermorgan.com" label="bill_alison@kindermorgan.com" />
+      <node id="info@geoswan.com" label="info@geoswan.com" />
+      <node id="john.walt@enron.com" label="john.walt@enron.com" />
+      <node id="ena.employees@enron.com" label="ena.employees@enron.com" />
+      <node id="owner-peaker@energy.ca.gov" label="owner-peaker@energy.ca.gov" />
+      <node id="mike.grigsby@enron.com" label="mike.grigsby@enron.com" />
+      <node id="andrea.stein@robertwalters.com" label="andrea.stein@robertwalters.com" />
+      <node id="nytdirect@nytimes.com" label="nytdirect@nytimes.com" />
+      <node id="felicia.solis@enron.com" label="felicia.solis@enron.com" />
+      <node id="msable@sdge.com" label="msable@sdge.com" />
+      <node id="i00nlp@fds.com" label="i00nlp@fds.com" />
+      <node id="valgeneres@hotmail.com" label="valgeneres@hotmail.com" />
+      <node id="rebecca.cantrell@enron.com" label="rebecca.cantrell@enron.com" />
+      <node id="asorelle@h-s.com" label="asorelle@h-s.com" />
+      <node id="mike.roberts@enron.com" label="mike.roberts@enron.com" />
+      <node id="ross.prevatt@enron.com" label="ross.prevatt@enron.com" />
+      <node id="enl-members-html@estutenws11.energy.williams.com" label="enl-members-html@estutenws11.energy.williams.com" />
+      <node id="bob.schorr@enron.com" label="bob.schorr@enron.com" />
+      <node id="enron@houston.rr.com" label="enron@houston.rr.com" />
+      <node id="jcrable@tristargas.com" label="jcrable@tristargas.com" />
+      <node id="michelle.cash@enron.com" label="michelle.cash@enron.com" />
+      <node id="pallen@enron.com" label="pallen@enron.com" />
+      <node id="occc@sedona.net" label="occc@sedona.net" />
+      <node id="mike.mcgowan@enron.com" label="mike.mcgowan@enron.com" />
+      <node id="randy.bhatia@enron.com" label="randy.bhatia@enron.com" />
+      <node id="annualconference@prosrm.com" label="annualconference@prosrm.com" />
+      <node id="kenny.w.baldwin@accenture.com" label="kenny.w.baldwin@accenture.com" />
+      <node id="shanna.husser@enron.com" label="shanna.husser@enron.com" />
+      <node id="rhaygood@darbylaw.com" label="rhaygood@darbylaw.com" />
+      <node id="po_jack@email.msn.com" label="po_jack@email.msn.com" />
+      <node id="slewis2@enron.com" label="slewis2@enron.com" />
+      <node id="debbielatham@uswest.net" label="debbielatham@uswest.net" />
+      <node id="ftholt@hotmail.com" label="ftholt@hotmail.com" />
+      <node id="garrett.tripp@enron.com" label="garrett.tripp@enron.com" />
+      <node id="eligible.employees@enron.com" label="eligible.employees@enron.com" />
+      <node id="ryan.watt@enron.com" label="ryan.watt@enron.com" />
+      <node id="kenneth.shulklapper@enron.com" label="kenneth.shulklapper@enron.com" />
+      <node id="brook@pdq.net" label="brook@pdq.net" />
+      <node id="maziarz@bellsouth.net" label="maziarz@bellsouth.net" />
+      <node id="rmoseley@rbfalcon.com" label="rmoseley@rbfalcon.com" />
+      <node id="stouchstone@natsource.com" label="stouchstone@natsource.com" />
+      <node id="thomas.martin@enron.com" label="thomas.martin@enron.com" />
+      <node id="hal.lenhart@apollogrp.edu" label="hal.lenhart@apollogrp.edu" />
+      <node id="sarah.taylor@enron.com" label="sarah.taylor@enron.com" />
+      <node id="schang@cook-inlet.com" label="schang@cook-inlet.com" />
+      <node id="linda.willis@twcable.com" label="linda.willis@twcable.com" />
+      <node id="mmmarcantel@equiva.com" label="mmmarcantel@equiva.com" />
+      <node id="j..phillips@enron.com" label="j..phillips@enron.com" />
+      <node id="jennifer_harris_r@lilly.com" label="jennifer_harris_r@lilly.com" />
+      <node id="priya.jaisinghani@enron.com" label="priya.jaisinghani@enron.com" />
+      <node id="jroyed@ev1.net" label="jroyed@ev1.net" />
+      <node id="lplotkin@burntsand.com" label="lplotkin@burntsand.com" />
+      <node id="debbielatham@realtor.com" label="debbielatham@realtor.com" />
+      <node id="ajnovero@iwon.com" label="ajnovero@iwon.com" />
+      <node id="shelly.mendel@enron.com" label="shelly.mendel@enron.com" />
+      <node id="bthoskins@hotmail.com" label="bthoskins@hotmail.com" />
+      <node id=".williams@enron.com" label=".williams@enron.com" />
+      <node id="mgrigsby@swbell.net" label="mgrigsby@swbell.net" />
+      <node id="keith.holst@enron.com" label="keith.holst@enron.com" />
+      <node id="elizabeth.hernandez@enron.com" label="elizabeth.hernandez@enron.com" />
+      <node id="mcook1@tulane.edu" label="mcook1@tulane.edu" />
+      <node id="joyce.teixeira@enron.com" label="joyce.teixeira@enron.com" />
+      <node id="merlinm@qwest.net" label="merlinm@qwest.net" />
+      <node id="dawn.kenne@enron.com" label="dawn.kenne@enron.com" />
+      <node id="matthew.lenhart@enron.com" label="matthew.lenhart@enron.com" />
+      <node id="karen.buckley@enron.com" label="karen.buckley@enron.com" />
+      <node id="muller@thedoghousemail.com" label="muller@thedoghousemail.com" />
+      <node id="mvianna@tradespark.com" label="mvianna@tradespark.com" />
+      <node id="jtholt@houston.rr.com" label="jtholt@houston.rr.com" />
+      <node id="harris_jennifer_r@lilly.com" label="harris_jennifer_r@lilly.com" />
+      <node id="val.generes@ac.com" label="val.generes@ac.com" />
+      <node id="mac.d.hargrove@rssmb.com" label="mac.d.hargrove@rssmb.com" />
+      <node id="achrisco@prosrm.com" label="achrisco@prosrm.com" />
+      <node id="football@cnnsi.com" label="football@cnnsi.com" />
+      <node id="jane.tholt@enron.com" label="jane.tholt@enron.com" />
+      <node id="wicain@fame.com" label="wicain@fame.com" />
+      <node id="brian.hoskins@enron.com" label="brian.hoskins@enron.com" />
+      <node id="kmshulklapper@hotmail.com" label="kmshulklapper@hotmail.com" />
+      <node id="llewter@austin.rr.com" label="llewter@austin.rr.com" />
+      <node id="bafjjfjefmbfzef@cs.com" label="bafjjfjefmbfzef@cs.com" />
+      <node id="jay.reitmeyer@enron.com" label="jay.reitmeyer@enron.com" />
+      <node id="pallen70@hotmail.com" label="pallen70@hotmail.com" />
+      <node id="jose.marquez@enron.com" label="jose.marquez@enron.com" />
+      <node id="jarx@pge.com" label="jarx@pge.com" />
+      <node id="rmoseley@houston.deepwater.com" label="rmoseley@houston.deepwater.com" />
+      <node id="riddles@riddlesandmore.com" label="riddles@riddlesandmore.com" />
+      <node id="andrew.lewis@enron.com" label="andrew.lewis@enron.com" />
+      <node id="bboudrea@midsouth.rr.com" label="bboudrea@midsouth.rr.com" />
+      <node id="susan.hadix@elpaso.com" label="susan.hadix@elpaso.com" />
+      <node id="chris.walker@enron.com" label="chris.walker@enron.com" />
+      <node id="jason.wolfe@enron.com" label="jason.wolfe@enron.com" />
+      <node id="robert.hawkins@ci.austin.tx.us" label="robert.hawkins@ci.austin.tx.us" />
+      <node id="jtholt1122@aol.com" label="jtholt1122@aol.com" />
+      <node id="hfl@fp.edu" label="hfl@fp.edu" />
+      <node id="fritz_hiser@yahoo.com" label="fritz_hiser@yahoo.com" />
+      <node id="hal@tradedays.org" label="hal@tradedays.org" />
+      <node id="robert.badeer@enron.com" label="robert.badeer@enron.com" />
+      <node id="julie.meyers@enron.com" label="julie.meyers@enron.com" />
+      <node id="bridgie@prodigy.net" label="bridgie@prodigy.net" />
+      <node id="tim.o'rourke@enron.com" label="tim.o'rourke@enron.com" />
+      <node id="lynley.stewart@cancer.org" label="lynley.stewart@cancer.org" />
+      <node id="scott.morales@williams.com" label="scott.morales@williams.com" />
+      <node id="ericf@apbenergy.com" label="ericf@apbenergy.com" />
+      <node id="scottymorales@home.com" label="scottymorales@home.com" />
+      <node id="mlenhart@enron.com" label="mlenhart@enron.com" />
+      <node id="heath.b.taylor@accenture.com" label="heath.b.taylor@accenture.com" />
+      <node id="naquinscott@yahoo.com" label="naquinscott@yahoo.com" />
+      <node id="terra.henderson@accenture.com" label="terra.henderson@accenture.com" />
+      <node id="val.generes@accenture.com" label="val.generes@accenture.com" />
+      <node id="jpelti@lsumc.edu" label="jpelti@lsumc.edu" />
+      <node id="reagantgo@aol.com" label="reagantgo@aol.com" />
+      <node id="socalcinephile@socal.rr.com" label="socalcinephile@socal.rr.com" />
+      <node id="roy_dealy@veritasdgc.com" label="roy_dealy@veritasdgc.com" />
+      <node id="ina.rangel@enron.com" label="ina.rangel@enron.com" />
+      <node id="cchao@cook-inlet.com" label="cchao@cook-inlet.com" />
+      <node id="yevgeny.frolov@enron.com" label="yevgeny.frolov@enron.com" />
+      <node id="luis.mena@enron.com" label="luis.mena@enron.com" />
+      <node id="yvette.simpson@enron.com" label="yvette.simpson@enron.com" />
+      <node id="randall.gay@enron.com" label="randall.gay@enron.com" />
+      <node id="asrorelle@h-s.com" label="asrorelle@h-s.com" />
+      <node id="cooper.richey@enron.com" label="cooper.richey@enron.com" />
+      <node id="pkuykendall@wm.com" label="pkuykendall@wm.com" />
+      <node id="kmcdani@enron.com" label="kmcdani@enron.com" />
+      <node id="mlenhart@juno.com" label="mlenhart@juno.com" />
+      <node id="enron.announcements@enron.com" label="enron.announcements@enron.com" />
+      <node id="phillip.allen@enron.com" label="phillip.allen@enron.com" />
+      <node id="jean.mrha@enron.com" label="jean.mrha@enron.com" />
+      <node id="cathy_morse@foleys.com" label="cathy_morse@foleys.com" />
+      <node id="kbaker2@txu.com" label="kbaker2@txu.com" />
+      <node id="frank.hayden@enron.com" label="frank.hayden@enron.com" />
+      <node id="pam_macaul@bmc.com" label="pam_macaul@bmc.com" />
+      <node id="trey@hillcast.com" label="trey@hillcast.com" />
+      <node id="frank.ermis@enron.com" label="frank.ermis@enron.com" />
+      <node id="sahamrx@yahoo.com" label="sahamrx@yahoo.com" />
+      <node id="kacee.downey@enron.com" label="kacee.downey@enron.com" />
+      <node id="cwodenshek@tradespark.com" label="cwodenshek@tradespark.com" />
+      <node id="cathy.craven@us.cgeyc.com" label="cathy.craven@us.cgeyc.com" />
+      <node id="jpetriello@prebon.com" label="jpetriello@prebon.com" />
+      <node id="daniel.lisk@enron.com" label="daniel.lisk@enron.com" />
+      <node id="adriane.schultea@enron.com" label="adriane.schultea@enron.com" />
+      <node id="ted.evans@enron.com" label="ted.evans@enron.com" />
+      <node id="kbridge23@aol.com" label="kbridge23@aol.com" />
+      <node id="public.relations@enron.com" label="public.relations@enron.com" />
+      <node id="donald.l.barnhart@accenture.com" label="donald.l.barnhart@accenture.com" />
+      <node id="erichardson@sarofim.com" label="erichardson@sarofim.com" />
+      <node id="ashackouls@hotmail.com" label="ashackouls@hotmail.com" />
+      <node id="clickathome.mailout@enron.com" label="clickathome.mailout@enron.com" />
+      <node id="sdarrah@entergy.com" label="sdarrah@entergy.com" />
+      <node id="sbeinart@u.washington.edu" label="sbeinart@u.washington.edu" />
+      <node id="drhatte@ppco.com" label="drhatte@ppco.com" />
+      <node id="jsmith@austintx.com" label="jsmith@austintx.com" />
+      <node id="lisa@techxans.org" label="lisa@techxans.org" />
+      <node id="deborah_macdonald@kindermorgan.com" label="deborah_macdonald@kindermorgan.com" />
+      <node id="beth.perlman@enron.com" label="beth.perlman@enron.com" />
+      <node id="laurie.ellis@enron.com" label="laurie.ellis@enron.com" />
+      <node id="tracitx@aol.com" label="tracitx@aol.com" />
+      <node id="tlbrassard@aol.com" label="tlbrassard@aol.com" />
+      <node id="chairman.ken@enron.com" label="chairman.ken@enron.com" />
+      <node id="ecenter@williams.com" label="ecenter@williams.com" />
+      <node id="robert.jones@mailman.enron.com" label="robert.jones@mailman.enron.com" />
+      <node id="yan.wang@enron.com" label="yan.wang@enron.com" />
+      <node id="steven.south@enron.com" label="steven.south@enron.com" />
+      <node id="kevin.labban@accenture.com" label="kevin.labban@accenture.com" />
+      <node id="greetings@reply.yahoo.com" label="greetings@reply.yahoo.com" />
+      <node id="ryan.o'rourke@enron.com" label="ryan.o'rourke@enron.com" />
+      <node id="laura.osman@travelpark.com" label="laura.osman@travelpark.com" />
+      <node id="ross_berthelot@bankone.com" label="ross_berthelot@bankone.com" />
+      <node id="jreitme@enron.com" label="jreitme@enron.com" />
+      <node id="julie.ferrara@enron.com" label="julie.ferrara@enron.com" />
+      <node id="anneleuthold@techtvcorp.com" label="anneleuthold@techtvcorp.com" />
+      <node id="gthorse@keyad.com" label="gthorse@keyad.com" />
+      <node id="pwesson@astraoil.com" label="pwesson@astraoil.com" />
+      <node id="louise.kitchen@enron.com" label="louise.kitchen@enron.com" />
+      <node id="hunter.shively@enron.com" label="hunter.shively@enron.com" />
+      <node id="phillip.love@enron.com" label="phillip.love@enron.com" />
+      <node id="jacqestc@aol.com" label="jacqestc@aol.com" />
+      <node id="jennsreit@houston.rr.com" label="jennsreit@houston.rr.com" />
+      <node id="pulhamus@aol.com" label="pulhamus@aol.com" />
+      <node id="jdrmedia1@lists.em5000.com" label="jdrmedia1@lists.em5000.com" />
+      <node id="dla6138201@aol.com" label="dla6138201@aol.com" />
+      <node id="sheri.thomas@enron.com" label="sheri.thomas@enron.com" />
+      <node id="liz.mendiola@travelpark.com" label="liz.mendiola@travelpark.com" />
+      <node id="twilly20@yahoo.com" label="twilly20@yahoo.com" />
+      <node id="maradams@medicine.nodak.edu" label="maradams@medicine.nodak.edu" />
+      <node id="andrea.richards@enron.com" label="andrea.richards@enron.com" />
+      <node id="shelliot@dttus.com" label="shelliot@dttus.com" />
+      <node id="brad.coleman@enron.com" label="brad.coleman@enron.com" />
+      <node id="john.lavorato@enron.com" label="john.lavorato@enron.com" />
+      <node id="mlenhart@ev1.net" label="mlenhart@ev1.net" />
+      <node id="nesa.staff@nesanet.org" label="nesa.staff@nesanet.org" />
+      <node id="samantha.law@enron.com" label="samantha.law@enron.com" />
+      <node id="nesamembers@nesanet.org" label="nesamembers@nesanet.org" />
+      <node id="chad.landry@enron.com" label="chad.landry@enron.com" />
+      <node id="shaverh@aol.com" label="shaverh@aol.com" />
+      <node id="swg_gaspur@swgas.com" label="swg_gaspur@swgas.com" />
+      <node id="all.downtown@enron.com" label="all.downtown@enron.com" />
+      <node id="gerryandjim@earthlink.net" label="gerryandjim@earthlink.net" />
+      <node id="colleen.sullivan@enron.com" label="colleen.sullivan@enron.com" />
+      <node id="fermis@enron.com" label="fermis@enron.com" />
+      <node id="dl-ga-all_enron_worldwide2@enron.com" label="dl-ga-all_enron_worldwide2@enron.com" />
+      <node id="jennifersmith@kaseco.com" label="jennifersmith@kaseco.com" />
+      <node id="tisenhour@tigernaturalgas.com" label="tisenhour@tigernaturalgas.com" />
+      <node id="cbpres@austin.rr.com" label="cbpres@austin.rr.com" />
+      <node id="enerfaxdaily@enerfax.com" label="enerfaxdaily@enerfax.com" />
+      <node id="patti.sullivan@enron.com" label="patti.sullivan@enron.com" />
+      <node id="all_ena_egm_eim@enron.com" label="all_ena_egm_eim@enron.com" />
+      <node id="angela.collins@enron.com" label="angela.collins@enron.com" />
+      <node id="tbrassard@hhsi.com" label="tbrassard@hhsi.com" />
+      <node id="bs_stone@yahoo.com" label="bs_stone@yahoo.com" />
+      <node id="andrea.ring@enron.com" label="andrea.ring@enron.com" />
+      <node id="chris.dorland@enron.com" label="chris.dorland@enron.com" />
+      <node id="mwomack@tristargas.com" label="mwomack@tristargas.com" />
+      <node id="stagecoachmama@hotmail.com" label="stagecoachmama@hotmail.com" />
+      <node id="aaron.martinsen@enron.com" label="aaron.martinsen@enron.com" />
+      <node id="outlook.team@enron.com" label="outlook.team@enron.com" />
+      <node id="christa.winfrey@enron.com" label="christa.winfrey@enron.com" />
+      <node id="ljc76@hotmail.com" label="ljc76@hotmail.com" />
+      <node id="tk.lohman@enron.com" label="tk.lohman@enron.com" />
+      <node id="moshuffle@hotmail.com" label="moshuffle@hotmail.com" />
+      <node id="ralee@rmi.net" label="ralee@rmi.net" />
+      <node id="skjohn79@aol.com" label="skjohn79@aol.com" />
+      <node id="b2nusbaum@qwest.net" label="b2nusbaum@qwest.net" />
+      <node id="matt.smith@enron.com" label="matt.smith@enron.com" />
+      <node id="ragaz2@aol.com" label="ragaz2@aol.com" />
+      <node id="patrick.kuykendall@ecoutlook.com" label="patrick.kuykendall@ecoutlook.com" />
+      <node id="shalperin@houston.rr.com" label="shalperin@houston.rr.com" />
+      <node id="maria.houten@enron.com" label="maria.houten@enron.com" />
+      <node id="stephen.plauche@enron.com" label="stephen.plauche@enron.com" />
+      <node id="h..otto@enron.com" label="h..otto@enron.com" />
+      <node id="araceli.romero@enron.com" label="araceli.romero@enron.com" />
+      <node id="sheri.a.righi@accenture.com" label="sheri.a.righi@accenture.com" />
+      <node id="kevin.wellenius@frontiereconomics.com" label="kevin.wellenius@frontiereconomics.com" />
+      <node id="p..south@enron.com" label="p..south@enron.com" />
+      <node id="anne.bike@enron.com" label="anne.bike@enron.com" />
+      <node id="peaker@energy.ca.gov" label="peaker@energy.ca.gov" />
+      <node id="lisa.jones@enron.com" label="lisa.jones@enron.com" />
+      <node id="rickm@wt.net" label="rickm@wt.net" />
+      <node id="jtholt@enron.com" label="jtholt@enron.com" />
+      <node id="enronoptions.mailing@enron.com" label="enronoptions.mailing@enron.com" />
+      <node id="all.worldwide@enron.com" label="all.worldwide@enron.com" />
+      <node id="tlenhart@corealty.com" label="tlenhart@corealty.com" />
+      <node id="stephanie.miller@enron.com" label="stephanie.miller@enron.com" />
+      <node id="julia.white@enron.com" label="julia.white@enron.com" />
+      <node id="ceci@gorge.net" label="ceci@gorge.net" />
+      <node id="jpalmer@enron.com" label="jpalmer@enron.com" />
+      <node id="jef070@cs.com" label="jef070@cs.com" />
+      <node id="susan.scott@enron.com" label="susan.scott@enron.com" />
+      <node id="vedder_24@yahoo.com" label="vedder_24@yahoo.com" />
+      <node id="nicholas.danna@ey.com" label="nicholas.danna@ey.com" />
+      <node id="lsu_alumni@football.fantasy.sportsline.com" label="lsu_alumni@football.fantasy.sportsline.com" />
+      <node id="all.houston@enron.com" label="all.houston@enron.com" />
+      <node id="adrianne.engler@enron.com" label="adrianne.engler@enron.com" />
+      <node id="scott.morrill@grubb-ellis.com" label="scott.morrill@grubb-ellis.com" />
+      <node id="timothy.blanchard@enron.com" label="timothy.blanchard@enron.com" />
+      <node id="bryan.hull@enron.com" label="bryan.hull@enron.com" />
+      <node id="t..lucci@enron.com" label="t..lucci@enron.com" />
+      <node id="merlinm@uswest.net" label="merlinm@uswest.net" />
+      <node id="sthompson@prosrm.com" label="sthompson@prosrm.com" />
+      <node id="melba.lozano@enron.com" label="melba.lozano@enron.com" />
+      <node id="egongert@aol.com" label="egongert@aol.com" />
+      <node id="office.chairman@enron.com" label="office.chairman@enron.com" />
+      <node id="jennifer_lamprecht@oxy.com" label="jennifer_lamprecht@oxy.com" />
+      <node id="monique.sanchez@enron.com" label="monique.sanchez@enron.com" />
+      <node id="c..aucoin@enron.com" label="c..aucoin@enron.com" />
+      <node id="stephanie.sever@enron.com" label="stephanie.sever@enron.com" />
+      <node id="mery.l.brown@accenture.com" label="mery.l.brown@accenture.com" />
+      <node id="monica.l.brown@accenture.com" label="monica.l.brown@accenture.com" />
+      <node id="ken.shulklapper@enron.com" label="ken.shulklapper@enron.com" />
+      <node id="clcs@email.msn.com" label="clcs@email.msn.com" />
+      <node id="jilallen@deloitte.com" label="jilallen@deloitte.com" />
+      <node id="peeinc@aol.com" label="peeinc@aol.com" />
+      <node id="maryrichards7@hotmail.com" label="maryrichards7@hotmail.com" />
+      <node id="martin@apbenergy.com" label="martin@apbenergy.com" />
+    </nodes>
+    <edges>
+      <edge id="0" source="tori.kuykendall@enron.com" target="susan.hadix@elpaso.com" weight="0.12528749071" />
+      <edge id="1" source="tori.kuykendall@enron.com" target="scott.morales@williams.com" weight="0.0467216639734" />
+      <edge id="2" source="tori.kuykendall@enron.com" target="gtcalendar@socalgas.com" weight="0.0110701240801" />
+      <edge id="3" source="tori.kuykendall@enron.com" target="robert.hawkins@ci.austin.tx.us" weight="0.0174658911752" />
+      <edge id="4" source="tori.kuykendall@enron.com" target="jperdew@apbenergy.com" weight="0.222643432886" />
+      <edge id="5" source="tori.kuykendall@enron.com" target="i00nlp@fds.com" weight="0.0171162883752" />
+      <edge id="6" source="tori.kuykendall@enron.com" target="cathy_morse@foleys.com" weight="0.0991929981905" />
+      <edge id="7" source="tori.kuykendall@enron.com" target=".williams@enron.com" weight="0.0128615962674" />
+      <edge id="8" source="tori.kuykendall@enron.com" target="fritz_hiser@yahoo.com" weight="0.0158397504661" />
+      <edge id="9" source="tori.kuykendall@enron.com" target="shaverh@aol.com" weight="0.0471527447016" />
+      <edge id="10" source="tori.kuykendall@enron.com" target="britt.davis@enron.com" weight="0.0132182913021" />
+      <edge id="11" source="tori.kuykendall@enron.com" target="diane_hoyuela@foleys.com" weight="0.0278747595434" />
+      <edge id="12" source="tori.kuykendall@enron.com" target="sbeinart@u.washington.edu" weight="0.04114705301" />
+      <edge id="13" source="tori.kuykendall@enron.com" target="drhatte@ppco.com" weight="0.43515389957" />
+      <edge id="14" source="tori.kuykendall@enron.com" target="scottymorales@home.com" weight="0.0166896514715" />
+      <edge id="15" source="tori.kuykendall@enron.com" target="sheri.thomas@enron.com" weight="0.0148036718743" />
+      <edge id="16" source="tori.kuykendall@enron.com" target="jpalmer@enron.com" weight="0.0165520466919" />
+      <edge id="17" source="tori.kuykendall@enron.com" target="terra.henderson@accenture.com" weight="0.0454031823322" />
+      <edge id="18" source="tori.kuykendall@enron.com" target="vedder_24@yahoo.com" weight="0.0214948227222" />
+      <edge id="19" source="tori.kuykendall@enron.com" target="heath.b.taylor@accenture.com" weight="0.131011878718" />
+      <edge id="20" source="tori.kuykendall@enron.com" target="reagantgo@aol.com" weight="0.0258188377635" />
+      <edge id="21" source="tori.kuykendall@enron.com" target="hadix.susan@epenergy.com" weight="0.0323702470381" />
+      <edge id="22" source="tori.kuykendall@enron.com" target="rhaygood@darbylaw.com" weight="0.195289893316" />
+      <edge id="23" source="tori.kuykendall@enron.com" target="po_jack@email.msn.com" weight="0.0224556913686" />
+      <edge id="24" source="tori.kuykendall@enron.com" target="celestine.hollan@enron.com" weight="0.0177030176807" />
+      <edge id="25" source="tori.kuykendall@enron.com" target="swatch@babybedding.com" weight="0.0467321917539" />
+      <edge id="26" source="tori.kuykendall@enron.com" target="pwesson@astraoil.com" weight="0.0147601654401" />
+      <edge id="27" source="tori.kuykendall@enron.com" target="melba.lozano@enron.com" weight="0.0223959133101" />
+      <edge id="28" source="tori.kuykendall@enron.com" target="brook@pdq.net" weight="0.0347931453336" />
+      <edge id="29" source="tori.kuykendall@enron.com" target="mwomack@tristargas.com" weight="0.0619947834077" />
+      <edge id="30" source="tori.kuykendall@enron.com" target="outlook.team@enron.com" weight="0.0126698523253" />
+      <edge id="31" source="tori.kuykendall@enron.com" target="pkuykendall@wm.com" weight="0.0227255884044" />
+      <edge id="32" source="tori.kuykendall@enron.com" target="jennifer_lamprecht@oxy.com" weight="0.0915364166389" />
+      <edge id="33" source="tori.kuykendall@enron.com" target="occc@sedona.net" weight="0.0340940300546" />
+      <edge id="34" source="tori.kuykendall@enron.com" target="moshuffle@hotmail.com" weight="0.0304128835812" />
+      <edge id="35" source="tori.kuykendall@enron.com" target="custo@coair.com" weight="0.0168538104741" />
+      <edge id="36" source="tori.kuykendall@enron.com" target="stephanie.sever@enron.com" weight="0.0132583496312" />
+      <edge id="37" source="tori.kuykendall@enron.com" target="jay.reitmeyer@enron.com" weight="0.0123863372862" />
+      <edge id="38" source="tori.kuykendall@enron.com" target="tori.kuykendall@enron.com" weight="0.0129151447601" />
+      <edge id="39" source="tori.kuykendall@enron.com" target="patrick.kuykendall@ecoutlook.com" weight="0.0100704212405" />
+      <edge id="40" source="tori.kuykendall@enron.com" target="kbaker2@txu.com" weight="0.0102484562889" />
+      <edge id="41" source="tori.kuykendall@enron.com" target="pam_macaul@bmc.com" weight="0.0459189548551" />
+      <edge id="42" source="tori.kuykendall@enron.com" target="martin@apbenergy.com" weight="0.0388131239484" />
+      <edge id="43" source="tori.kuykendall@enron.com" target="ajnovero@iwon.com" weight="0.0595027026377" />
+      <edge id="44" source="tori.kuykendall@enron.com" target="shelly.mendel@enron.com" weight="0.0171602671852" />
+      <edge id="45" source="lisa.gillette@enron.com" target="matthew.lenhart@enron.com" weight="0.184379319525" />
+      <edge id="46" source="eric.bass@enron.com" target="matthew.lenhart@enron.com" weight="0.0155118024655" />
+      <edge id="47" source="my-register@yahoo-inc.com" target="jane.tholt@enron.com" weight="0.0283538476619" />
+      <edge id="48" source="tracy.cummins@nesanet.org" target="nesamembers@nesanet.org" weight="0.0282426582207" />
+      <edge id="49" source="tracy.cummins@nesanet.org" target="nesa.staff@nesanet.org" weight="0.042363987331" />
+      <edge id="50" source="orsi@tconl.com" target="jane.tholt@enron.com" weight="0.011378205578" />
+      <edge id="51" source="martin.kovacs@travelpark.com" target="jane.tholt@enron.com" weight="0.0215280088095" />
+      <edge id="52" source="bobregon@bga.com" target="strawbale@crest.org" weight="0.0186379253593" />
+      <edge id="53" source="donna.jones@enron.com" target="donna.jones@enron.com" weight="0.0142963255478" />
+      <edge id="54" source="donna.jones@enron.com" target="john.walt@enron.com" weight="0.0107864492157" />
+      <edge id="55" source="curtis.hutcheson@compaq.com" target="mcook1@tulane.edu" weight="0.0276003680606" />
+      <edge id="56" source="promotions@usairways.com" target="kholst@enron.com" weight="0.0130965199663" />
+      <edge id="57" source="kimberly.soulant@wcom.com" target="jane.tholt@enron.com" weight="0.0301310951236" />
+      <edge id="58" source="mlenhart@alltel.net" target="matthew.lenhart@enron.com" weight="0.033855622415" />
+      <edge id="59" source="stadogb@email.msn.com" target="matthew.lenhart@enron.com" weight="0.0271550167344" />
+      <edge id="60" source="shirley.s.elliott@citicorp.com" target="matthew.lenhart@enron.com" weight="0.0645491689463" />
+      <edge id="61" source="ccates@mail.lbjs.com" target="matthew.lenhart@enron.com" weight="0.0678773658718" />
+      <edge id="62" source="jpelti@lsuhsc.edu" target="chad.landry@enron.com" weight="0.0247070433054" />
+      <edge id="63" source="kirk.mcdaniel@enron.com" target="dutch.quigley@enron.com" weight="0.0427666905609" />
+      <edge id="64" source="kirk.mcdaniel@enron.com" target="c..aucoin@enron.com" weight="0.0782789984621" />
+      <edge id="65" source="kirk.mcdaniel@enron.com" target="phillip.allen@enron.com" weight="0.260333432068" />
+      <edge id="66" source="kirk.mcdaniel@enron.com" target="ed.mcmichael@enron.com" weight="0.0427666905609" />
+      <edge id="67" source="kirk.mcdaniel@enron.com" target="tim.o'rourke@enron.com" weight="0.259527967269" />
+      <edge id="68" source="kirk.mcdaniel@enron.com" target="michelle.cash@enron.com" weight="0.130643458347" />
+      <edge id="69" source="kirk.mcdaniel@enron.com" target="yevgeny.frolov@enron.com" weight="0.259527967269" />
+      <edge id="70" source="esavers@usairways.com" target="kholst@enron.com" weight="0.01366212329" />
+      <edge id="71" source="kevin.a.boone@accenture.com" target="mmmarcantel@equiva.com" weight="0.590887852611" />
+      <edge id="72" source="kevin.a.boone@accenture.com" target="val.generes@accenture.com" weight="0.270558509031" />
+      <edge id="73" source="kevin.a.boone@accenture.com" target="chad.landry@enron.com" weight="0.0775558973777" />
+      <edge id="74" source="kevin.a.boone@accenture.com" target="matthew.lenhart@enron.com" weight="6.85550410429" />
+      <edge id="75" source="kevin.a.boone@accenture.com" target="bryan.hull@enron.com" weight="1.54550395354" />
+      <edge id="76" source="kevin.a.boone@accenture.com" target="lisa.gillette@enron.com" weight="0.212759432968" />
+      <edge id="77" source="kevin.a.boone@accenture.com" target="kevin.a.boone@accenture.com" weight="0.20101246199" />
+      <edge id="78" source="brian.r.vassigh@accenture.com" target="val.generes@accenture.com" weight="0.177430892414" />
+      <edge id="79" source="brian.r.vassigh@accenture.com" target="chad.landry@enron.com" weight="0.0233394995107" />
+      <edge id="80" source="brian.r.vassigh@accenture.com" target="matthew.lenhart@enron.com" weight="0.140309092243" />
+      <edge id="81" source="pederleifkjeseth@hotmail.com" target="scott.morrill@grubb-ellis.com" weight="0.064507826639" />
+      <edge id="82" source="pederleifkjeseth@hotmail.com" target="ralee@rmi.net" weight="0.0280185509644" />
+      <edge id="83" source="pederleifkjeseth@hotmail.com" target="matthew.lenhart@enron.com" weight="0.0591439197541" />
+      <edge id="84" source="pederleifkjeseth@hotmail.com" target="merlinm@uswest.net" weight="0.0221542030881" />
+      <edge id="85" source="owner-peaker@energy.ca.gov" target="peaker@energy.ca.gov" weight="0.0376557435361" />
+      <edge id="86" source="mike.grigsby@enron.com" target="jason.huang@enron.com" weight="0.0123566740516" />
+      <edge id="87" source="mike.grigsby@enron.com" target="p..south@enron.com" weight="0.013656725218" />
+      <edge id="88" source="mike.grigsby@enron.com" target="ina.rangel@enron.com" weight="0.131376426906" />
+      <edge id="89" source="mike.grigsby@enron.com" target="'hutcheson@enron.com" weight="0.0123185997197" />
+      <edge id="90" source="mike.grigsby@enron.com" target="chris.walker@enron.com" weight="0.01439740022" />
+      <edge id="91" source="mike.grigsby@enron.com" target="ryan.o'rourke@enron.com" weight="0.0241646854446" />
+      <edge id="92" source="mike.grigsby@enron.com" target="jason.wolfe@enron.com" weight="0.0142799145414" />
+      <edge id="93" source="mike.grigsby@enron.com" target="trey@hillcast.com" weight="0.0238811321941" />
+      <edge id="94" source="mike.grigsby@enron.com" target="john.lavorato@enron.com" weight="0.0205226784057" />
+      <edge id="95" source="mike.grigsby@enron.com" target="daniel.lisk@enron.com" weight="0.0123123732708" />
+      <edge id="96" source="mike.grigsby@enron.com" target="jane.tholt@enron.com" weight="0.0458610145136" />
+      <edge id="97" source="mike.grigsby@enron.com" target="chris.gaskill@enron.com" weight="0.0132154676877" />
+      <edge id="98" source="mike.grigsby@enron.com" target="curtis.hutcheson@compaq.com" weight="0.0232985749528" />
+      <edge id="99" source="mike.grigsby@enron.com" target="anne.bike@enron.com" weight="0.145664123193" />
+      <edge id="100" source="mike.grigsby@enron.com" target="keith.holst@enron.com" weight="0.0485366970412" />
+      <edge id="101" source="mike.grigsby@enron.com" target="randall.gay@enron.com" weight="0.0237708754663" />
+      <edge id="102" source="mike.grigsby@enron.com" target="robert.badeer@enron.com" weight="0.0132005899061" />
+      <edge id="103" source="mike.grigsby@enron.com" target="julie.meyers@enron.com" weight="0.0117198266091" />
+      <edge id="104" source="mike.grigsby@enron.com" target="rmoseley@rbfalcon.com" weight="0.026446259747" />
+      <edge id="105" source="mike.grigsby@enron.com" target="karen.buckley@enron.com" weight="0.117971937611" />
+      <edge id="106" source="mike.grigsby@enron.com" target="monique.sanchez@enron.com" weight="0.0799336470317" />
+      <edge id="107" source="mike.grigsby@enron.com" target="phillip.allen@enron.com" weight="0.0669385496764" />
+      <edge id="108" source="mike.grigsby@enron.com" target="moshuffle@hotmail.com" weight="0.01557896539" />
+      <edge id="109" source="mike.grigsby@enron.com" target="barry.tycholiz@enron.com" weight="0.0285943826835" />
+      <edge id="110" source="mike.grigsby@enron.com" target="tori.kuykendall@enron.com" weight="0.0411036019026" />
+      <edge id="111" source="mike.grigsby@enron.com" target="jean.mrha@enron.com" weight="0.0160114951198" />
+      <edge id="112" source="mike.grigsby@enron.com" target="matthew.lenhart@enron.com" weight="0.0453410156048" />
+      <edge id="113" source="mike.grigsby@enron.com" target="matt.smith@enron.com" weight="0.0184452321833" />
+      <edge id="114" source="mike.grigsby@enron.com" target="matt.motley@enron.com" weight="0.0102795333553" />
+      <edge id="115" source="mike.grigsby@enron.com" target="kevin.mcgowan@enron.com" weight="0.04530848171" />
+      <edge id="116" source="mike.grigsby@enron.com" target="susan.scott@enron.com" weight="0.0305391679752" />
+      <edge id="117" source="mike.grigsby@enron.com" target="patti.sullivan@enron.com" weight="0.0451966075188" />
+      <edge id="118" source="mike.grigsby@enron.com" target="garrett.tripp@enron.com" weight="0.017327104418" />
+      <edge id="119" source="mike.grigsby@enron.com" target="frank.ermis@enron.com" weight="0.0420836038642" />
+      <edge id="120" source="mike.grigsby@enron.com" target="aaron.martinsen@enron.com" weight="0.0302056544733" />
+      <edge id="121" source="mike.grigsby@enron.com" target="mgrigsby@swbell.net" weight="0.011101354561" />
+      <edge id="122" source="mike.grigsby@enron.com" target="jay.reitmeyer@enron.com" weight="0.036321454454" />
+      <edge id="123" source="mike.grigsby@enron.com" target="dipak.agarwalla@enron.com" weight="0.0133199010922" />
+      <edge id="124" source="andrea.stein@robertwalters.com" target="keith.holst@enron.com" weight="0.0122222355463" />
+      <edge id="125" source="nytdirect@nytimes.com" target="mike.grigsby@enron.com" weight="0.196755385303" />
+      <edge id="126" source="i00nlp@fds.com" target="tori.kuykendall@enron.com" weight="0.0154011835293" />
+      <edge id="127" source="asorelle@h-s.com" target="matthew.lenhart@enron.com" weight="0.0614393117529" />
+      <edge id="128" source="mike.roberts@enron.com" target="jose.marquez@enron.com" weight="0.0228344627029" />
+      <edge id="129" source="enron@houston.rr.com" target="jane.tholt@enron.com" weight="0.0110114651237" />
+      <edge id="130" source="annualconference@prosrm.com" target="jtholt@ect.enron.com" weight="0.0152995572668" />
+      <edge id="131" source="annualconference@prosrm.com" target="fermis@ect.enron.com" weight="0.035420148393" />
+      <edge id="132" source="hal.lenhart@apollogrp.edu" target="matthew.lenhart@enron.com" weight="0.0355309267775" />
+      <edge id="133" source="linda.willis@twcable.com" target="jane.tholt@enron.com" weight="0.0258698715601" />
+      <edge id="134" source="mmmarcantel@equiva.com" target="matthew.lenhart@enron.com" weight="0.310471925295" />
+      <edge id="135" source="jroyed@ev1.net" target="jay.reitmeyer@enron.com" weight="0.0114229161884" />
+      <edge id="136" source="lplotkin@burntsand.com" target="fermis@ect.enron.com" weight="0.0149030362755" />
+      <edge id="137" source="mgrigsby@swbell.net" target="mike.grigsby@enron.com" weight="0.0102649684735" />
+      <edge id="138" source="keith.holst@enron.com" target="sahamrx@yahoo.com" weight="0.0176787581522" />
+      <edge id="139" source="keith.holst@enron.com" target="karen.buckley@enron.com" weight="0.0271231697507" />
+      <edge id="140" source="merlinm@qwest.net" target="matthew.lenhart@enron.com" weight="0.0122807977014" />
+      <edge id="141" source="matthew.lenhart@enron.com" target="bboudrea@midsouth.rr.com" weight="0.0298749177154" />
+      <edge id="142" source="matthew.lenhart@enron.com" target="mike.grigsby@enron.com" weight="0.461738049804" />
+      <edge id="143" source="matthew.lenhart@enron.com" target="jason.wolfe@enron.com" weight="0.0136467463272" />
+      <edge id="144" source="matthew.lenhart@enron.com" target="shelliott@dttus.com" weight="0.361349790926" />
+      <edge id="145" source="matthew.lenhart@enron.com" target="mlenhart@ev1.net" weight="0.286295970324" />
+      <edge id="146" source="matthew.lenhart@enron.com" target="valgeneres@hotmail.com" weight="0.015761448843" />
+      <edge id="147" source="matthew.lenhart@enron.com" target="hfl@fp.edu" weight="0.512625149953" />
+      <edge id="148" source="matthew.lenhart@enron.com" target="chad.landry@enron.com" weight="1.37204721638" />
+      <edge id="149" source="matthew.lenhart@enron.com" target="asorelle@h-s.com" weight="0.0813502473396" />
+      <edge id="150" source="matthew.lenhart@enron.com" target="christa.winfrey@enron.com" weight="0.0794471285484" />
+      <edge id="151" source="matthew.lenhart@enron.com" target="phillip.love@enron.com" weight="0.0507626343511" />
+      <edge id="152" source="matthew.lenhart@enron.com" target="bridgie@prodigy.net" weight="0.0490783366222" />
+      <edge id="153" source="matthew.lenhart@enron.com" target="sdarrah@entergy.com" weight="0.0569384247673" />
+      <edge id="154" source="matthew.lenhart@enron.com" target="lynley.stewart@cancer.org" weight="0.0210194240725" />
+      <edge id="155" source="matthew.lenhart@enron.com" target="jilallen@dttus.com" weight="0.257103294398" />
+      <edge id="156" source="matthew.lenhart@enron.com" target="tori.kuykendall@enron.com" weight="0.0998004167222" />
+      <edge id="157" source="matthew.lenhart@enron.com" target="lisa.gillette@enron.com" weight="1.79271886703" />
+      <edge id="158" source="matthew.lenhart@enron.com" target="hlenhart@email.msn.com" weight="0.10573398415" />
+      <edge id="159" source="matthew.lenhart@enron.com" target="randy.bhatia@enron.com" weight="0.0155320027932" />
+      <edge id="160" source="matthew.lenhart@enron.com" target="tracitx@aol.com" weight="0.0321574050415" />
+      <edge id="161" source="matthew.lenhart@enron.com" target="tisenhour@tigernaturalgas.com" weight="0.0316834653339" />
+      <edge id="162" source="matthew.lenhart@enron.com" target="jpelti@lsumc.edu" weight="0.0252727696743" />
+      <edge id="163" source="matthew.lenhart@enron.com" target="micah.hatten@enron.com" weight="0.0210588075643" />
+      <edge id="164" source="matthew.lenhart@enron.com" target="socalcinephile@socal.rr.com" weight="0.0101808545858" />
+      <edge id="165" source="matthew.lenhart@enron.com" target="kbridge23@aol.com" weight="0.036200264714" />
+      <edge id="166" source="matthew.lenhart@enron.com" target="susan.scott@enron.com" weight="0.194628326028" />
+      <edge id="167" source="matthew.lenhart@enron.com" target="harris_jennifer_r@lilly.com" weight="0.101991287558" />
+      <edge id="168" source="matthew.lenhart@enron.com" target="eric.bass@enron.com" weight="0.699855554493" />
+      <edge id="169" source="matthew.lenhart@enron.com" target="shanna.husser@enron.com" weight="0.0775737438544" />
+      <edge id="170" source="matthew.lenhart@enron.com" target="chris.dorland@enron.com" weight="0.0177091027427" />
+      <edge id="171" source="matthew.lenhart@enron.com" target="mlenhart@houston.rr.com" weight="0.409827775679" />
+      <edge id="172" source="matthew.lenhart@enron.com" target="kenneth.shulklapper@enron.com" weight="0.216195951756" />
+      <edge id="173" source="matthew.lenhart@enron.com" target="ken.shulklapper@enron.com" weight="0.0455282773909" />
+      <edge id="174" source="matthew.lenhart@enron.com" target="yvette.simpson@enron.com" weight="0.123421263883" />
+      <edge id="175" source="matthew.lenhart@enron.com" target="randall.gay@enron.com" weight="0.130697588093" />
+      <edge id="176" source="matthew.lenhart@enron.com" target="maziarz@bellsouth.net" weight="0.044142462105" />
+      <edge id="177" source="matthew.lenhart@enron.com" target="asrorelle@h-s.com" weight="0.0315109667828" />
+      <edge id="178" source="matthew.lenhart@enron.com" target="cooper.richey@enron.com" weight="0.0213597851784" />
+      <edge id="179" source="matthew.lenhart@enron.com" target="ljc76@hotmail.com" weight="0.0385572581714" />
+      <edge id="180" source="matthew.lenhart@enron.com" target="mlenhart@juno.com" weight="0.19628884482" />
+      <edge id="181" source="matthew.lenhart@enron.com" target="hal.lenhart@apollogrp.edu" weight="0.0670615175222" />
+      <edge id="182" source="matthew.lenhart@enron.com" target="ralee@rmi.net" weight="0.223984502766" />
+      <edge id="183" source="matthew.lenhart@enron.com" target="phillip.allen@enron.com" weight="0.117091646362" />
+      <edge id="184" source="matthew.lenhart@enron.com" target="skjohn79@aol.com" weight="0.0643607751851" />
+      <edge id="185" source="matthew.lenhart@enron.com" target="sarah.taylor@enron.com" weight="0.123421263883" />
+      <edge id="186" source="matthew.lenhart@enron.com" target="allatham@realtor.com" weight="0.0772196880774" />
+      <edge id="187" source="matthew.lenhart@enron.com" target="schang@cook-inlet.com" weight="0.0218093054524" />
+      <edge id="188" source="matthew.lenhart@enron.com" target="val.generes@accenture.com" weight="0.884296701541" />
+      <edge id="189" source="matthew.lenhart@enron.com" target="j..phillips@enron.com" weight="0.0243395060377" />
+      <edge id="190" source="matthew.lenhart@enron.com" target="maria.houten@enron.com" weight="0.0216252039694" />
+      <edge id="191" source="matthew.lenhart@enron.com" target="jennifer_harris_r@lilly.com" weight="0.0178323117234" />
+      <edge id="192" source="matthew.lenhart@enron.com" target="frank.ermis@enron.com" weight="0.1308075605" />
+      <edge id="193" source="matthew.lenhart@enron.com" target="priya.jaisinghani@enron.com" weight="0.0182295970205" />
+      <edge id="194" source="matthew.lenhart@enron.com" target="stephen.plauche@enron.com" weight="0.0720201269319" />
+      <edge id="195" source="matthew.lenhart@enron.com" target="roy_dealy@veritasdgc.com" weight="0.0633119814984" />
+      <edge id="196" source="matthew.lenhart@enron.com" target="debbielatham@realtor.com" weight="0.252169299146" />
+      <edge id="197" source="matthew.lenhart@enron.com" target="matt.smith@enron.com" weight="0.0251018520057" />
+      <edge id="198" source="matthew.lenhart@enron.com" target="stephanie.sever@enron.com" weight="0.0226878464315" />
+      <edge id="199" source="matthew.lenhart@enron.com" target="daniel.lisk@enron.com" weight="0.0197742883751" />
+      <edge id="200" source="matthew.lenhart@enron.com" target="adriane.schultea@enron.com" weight="0.0610877837242" />
+      <edge id="201" source="matthew.lenhart@enron.com" target="ted.evans@enron.com" weight="0.0205696117298" />
+      <edge id="202" source="matthew.lenhart@enron.com" target="keith.holst@enron.com" weight="0.016664180739" />
+      <edge id="203" source="matthew.lenhart@enron.com" target="debbielatham@uswest.net" weight="0.0320761199386" />
+      <edge id="204" source="matthew.lenhart@enron.com" target="brian.vassigh@enron.com" weight="0.0207106758274" />
+      <edge id="205" source="matthew.lenhart@enron.com" target="erichardson@sarofim.com" weight="0.244001676645" />
+      <edge id="206" source="matthew.lenhart@enron.com" target="tlenhart@corealty.com" weight="1.05651373634" />
+      <edge id="207" source="matthew.lenhart@enron.com" target="ashackouls@hotmail.com" weight="0.018982754212" />
+      <edge id="208" source="matthew.lenhart@enron.com" target="ross.prevatt@enron.com" weight="0.111037904884" />
+      <edge id="209" source="matthew.lenhart@enron.com" target="matthew.lenhart@enron.com" weight="0.14103484397" />
+      <edge id="210" source="matthew.lenhart@enron.com" target="mmmarcantel@equiva.com" weight="2.79963722788" />
+      <edge id="211" source="matthew.lenhart@enron.com" target="stadogb@email.msn.com" weight="0.0711754109877" />
+      <edge id="212" source="matthew.lenhart@enron.com" target="paul.lucci@enron.com" weight="0.308595791331" />
+      <edge id="213" source="matthew.lenhart@enron.com" target="nicholas.danna@ey.com" weight="0.0156781391107" />
+      <edge id="214" source="matthew.lenhart@enron.com" target="lsu_alumni@football.fantasy.sportsline.com" weight="0.0326188289441" />
+      <edge id="215" source="matthew.lenhart@enron.com" target="thomas.engels@parexel.com" weight="0.0213116263171" />
+      <edge id="216" source="matthew.lenhart@enron.com" target="pederleifkjeseth@hotmail.com" weight="0.195443057046" />
+      <edge id="217" source="matthew.lenhart@enron.com" target="shirley.s.elliott@citicorp.com" weight="0.211590728779" />
+      <edge id="218" source="matthew.lenhart@enron.com" target="val.generes@ac.com" weight="0.253748669195" />
+      <edge id="219" source="matthew.lenhart@enron.com" target="scott.morrill@grubb-ellis.com" weight="0.22591885974" />
+      <edge id="220" source="matthew.lenhart@enron.com" target="timothy.blanchard@enron.com" weight="0.787882488367" />
+      <edge id="221" source="matthew.lenhart@enron.com" target="yan.wang@enron.com" weight="0.0198744131734" />
+      <edge id="222" source="matthew.lenhart@enron.com" target="jilallen@deloitte.com" weight="0.37100514265" />
+      <edge id="223" source="matthew.lenhart@enron.com" target="heather.alon@enron.com" weight="0.120565144597" />
+      <edge id="224" source="matthew.lenhart@enron.com" target="bryan.hull@enron.com" weight="2.26966974502" />
+      <edge id="225" source="matthew.lenhart@enron.com" target="ross_berthelot@bankone.com" weight="0.0102429875426" />
+      <edge id="226" source="matthew.lenhart@enron.com" target="jane.tholt@enron.com" weight="0.016270854583" />
+      <edge id="227" source="matthew.lenhart@enron.com" target="mlenhart@alltel.net" weight="0.0486819918638" />
+      <edge id="228" source="matthew.lenhart@enron.com" target="julie.ferrara@enron.com" weight="0.137132456949" />
+      <edge id="229" source="matthew.lenhart@enron.com" target="cchao@cook-inlet.com" weight="0.0424178910849" />
+      <edge id="230" source="matthew.lenhart@enron.com" target="kmshulklapper@hotmail.com" weight="0.0200635546093" />
+      <edge id="231" source="matthew.lenhart@enron.com" target="anneleuthold@techtvcorp.com" weight="0.0246098463784" />
+      <edge id="232" source="matthew.lenhart@enron.com" target="twilly20@yahoo.com" weight="0.0115158468111" />
+      <edge id="233" source="matthew.lenhart@enron.com" target="monique.sanchez@enron.com" weight="0.016664180739" />
+      <edge id="234" source="matthew.lenhart@enron.com" target="ryan.watt@enron.com" weight="0.011553188339" />
+      <edge id="235" source="matthew.lenhart@enron.com" target="pulhamus@aol.com" weight="0.806001468135" />
+      <edge id="236" source="matthew.lenhart@enron.com" target="dla6138201@aol.com" weight="0.0363707498895" />
+      <edge id="237" source="matthew.lenhart@enron.com" target="jay.reitmeyer@enron.com" weight="0.681150148957" />
+      <edge id="238" source="matthew.lenhart@enron.com" target="steven.south@enron.com" weight="0.111609657047" />
+      <edge id="239" source="matthew.lenhart@enron.com" target="brook@pdq.net" weight="0.0760429855161" />
+      <edge id="240" source="matthew.lenhart@enron.com" target="luis.mena@enron.com" weight="0.604373566323" />
+      <edge id="241" source="matthew.lenhart@enron.com" target="kevin.a.boone@accenture.com" weight="4.97499981934" />
+      <edge id="242" source="matthew.lenhart@enron.com" target="brian.r.vassigh@accenture.com" weight="0.137212619424" />
+      <edge id="243" source="matthew.lenhart@enron.com" target="jarx@pge.com" weight="0.146684019492" />
+      <edge id="244" source="matthew.lenhart@enron.com" target="ccates@mail.lbjs.com" weight="0.0729002599933" />
+      <edge id="245" source="matthew.lenhart@enron.com" target="maradams@medicine.nodak.edu" weight="0.0471923104938" />
+      <edge id="246" source="matthew.lenhart@enron.com" target="merlinm@uswest.net" weight="0.315582271912" />
+      <edge id="247" source="matthew.lenhart@enron.com" target="shelliot@dttus.com" weight="0.0480503154829" />
+      <edge id="248" source="karen.buckley@enron.com" target="mike.grigsby@enron.com" weight="0.0780243542367" />
+      <edge id="249" source="karen.buckley@enron.com" target="john.lavorato@enron.com" weight="0.0623724112682" />
+      <edge id="250" source="karen.buckley@enron.com" target="adrianne.engler@enron.com" weight="0.0303456372344" />
+      <edge id="251" source="karen.buckley@enron.com" target="louise.kitchen@enron.com" weight="0.0369097005222" />
+      <edge id="252" source="karen.buckley@enron.com" target="felicia.solis@enron.com" weight="0.0219080351587" />
+      <edge id="253" source="karen.buckley@enron.com" target="keith.holst@enron.com" weight="0.0193803003141" />
+      <edge id="254" source="mvianna@tradespark.com" target="cwodenshek@tradespark.com" weight="0.0195879517489" />
+      <edge id="255" source="harris_jennifer_r@lilly.com" target="matthew.lenhart@enron.com" weight="0.0273503461359" />
+      <edge id="256" source="achrisco@prosrm.com" target="fermis@ect.enron.com" weight="0.0447368685426" />
+      <edge id="257" source="football@cnnsi.com" target="jreitme@enron.com" weight="0.0435245404227" />
+      <edge id="258" source="jane.tholt@enron.com" target="lpearson@tenaska.com" weight="0.0132803566348" />
+      <edge id="259" source="jane.tholt@enron.com" target="deborah_macdonald@kindermorgan.com" weight="0.147825184481" />
+      <edge id="260" source="jane.tholt@enron.com" target="mike.grigsby@enron.com" weight="0.0185105440414" />
+      <edge id="261" source="jane.tholt@enron.com" target="mike.mcgowan@enron.com" weight="0.0250781509382" />
+      <edge id="262" source="jane.tholt@enron.com" target="ftholt@hotmail.com" weight="0.0505256506454" />
+      <edge id="263" source="jane.tholt@enron.com" target="andrea.ring@enron.com" weight="0.0811056504113" />
+      <edge id="264" source="jane.tholt@enron.com" target="msable@sdge.com" weight="0.0556064757484" />
+      <edge id="265" source="jane.tholt@enron.com" target="jtholt1122@aol.com" weight="0.0321345184993" />
+      <edge id="266" source="jane.tholt@enron.com" target="outlook.team@enron.com" weight="0.0215667073279" />
+      <edge id="267" source="jane.tholt@enron.com" target="elizabeth.hernandez@enron.com" weight="0.0211402930211" />
+      <edge id="268" source="jane.tholt@enron.com" target="rebecca.cantrell@enron.com" weight="0.0218565990402" />
+      <edge id="269" source="jane.tholt@enron.com" target="randall.gay@enron.com" weight="0.0104140872507" />
+      <edge id="270" source="jane.tholt@enron.com" target="orsi@tconl.com" weight="0.106629103743" />
+      <edge id="271" source="jane.tholt@enron.com" target="kimberly.soulant@wcom.com" weight="0.0122119246448" />
+      <edge id="272" source="jane.tholt@enron.com" target="julie.gomez@enron.com" weight="0.0179155587879" />
+      <edge id="273" source="jane.tholt@enron.com" target="monique.sanchez@enron.com" weight="0.0123105553543" />
+      <edge id="274" source="jane.tholt@enron.com" target="jane.tholt@enron.com" weight="0.0151949561045" />
+      <edge id="275" source="jane.tholt@enron.com" target="bob.schorr@enron.com" weight="0.010896745024" />
+      <edge id="276" source="jane.tholt@enron.com" target="stephanie.miller@enron.com" weight="0.0152318651659" />
+      <edge id="277" source="jane.tholt@enron.com" target="jmalisz@uswest.com" weight="0.023525139599" />
+      <edge id="278" source="jane.tholt@enron.com" target="phillip.allen@enron.com" weight="0.0230396063841" />
+      <edge id="279" source="jane.tholt@enron.com" target="tori.kuykendall@enron.com" weight="0.0405253701149" />
+      <edge id="280" source="jane.tholt@enron.com" target="julia.white@enron.com" weight="0.0294483333019" />
+      <edge id="281" source="jane.tholt@enron.com" target="colleen.sullivan@enron.com" weight="0.0106174095746" />
+      <edge id="282" source="jane.tholt@enron.com" target="ragaz2@aol.com" weight="0.0109767508869" />
+      <edge id="283" source="jane.tholt@enron.com" target="jef070@cs.com" weight="0.0244086878613" />
+      <edge id="284" source="jane.tholt@enron.com" target="jtholt@houston.rr.com" weight="0.0132283738727" />
+      <edge id="285" source="jane.tholt@enron.com" target="liz.mendiola@travelpark.com" weight="0.011596985349" />
+      <edge id="286" source="jane.tholt@enron.com" target="sbaird@socalgas.com" weight="0.0248045162065" />
+      <edge id="287" source="jane.tholt@enron.com" target="peeinc@aol.com" weight="0.0150352491091" />
+      <edge id="288" source="jane.tholt@enron.com" target="cweyman@astraoil.com" weight="0.0272839978494" />
+      <edge id="289" source="jane.tholt@enron.com" target="patti.sullivan@enron.com" weight="0.0168439099438" />
+      <edge id="290" source="jane.tholt@enron.com" target="bill_alison@kindermorgan.com" weight="0.0246108332645" />
+      <edge id="291" source="jane.tholt@enron.com" target="bafjjfjefmbfzef@cs.com" weight="0.0227992766531" />
+      <edge id="292" source="jane.tholt@enron.com" target="yan.wang@enron.com" weight="0.0366392458307" />
+      <edge id="293" source="jane.tholt@enron.com" target="kacee.downey@enron.com" weight="0.0236617768759" />
+      <edge id="294" source="jane.tholt@enron.com" target="laurie.ellis@enron.com" weight="0.0385244279167" />
+      <edge id="295" source="wicain@fame.com" target="fermis@ect.enron.com" weight="0.0139951895997" />
+      <edge id="296" source="brian.hoskins@enron.com" target="bthoskins@hotmail.com" weight="0.023974233455" />
+      <edge id="297" source="jay.reitmeyer@enron.com" target="h..otto@enron.com" weight="0.0150844194682" />
+      <edge id="298" source="jay.reitmeyer@enron.com" target="jennsreit@houston.rr.com" weight="0.0727625738236" />
+      <edge id="299" source="jay.reitmeyer@enron.com" target="shelly.mendel@enron.com" weight="0.0139131591278" />
+      <edge id="300" source="jarx@pge.com" target="matthew.lenhart@enron.com" weight="0.0243033527888" />
+      <edge id="301" source="rmoseley@houston.deepwater.com" target="mike.grigsby@enron.com" weight="0.0314000353195" />
+      <edge id="302" source="riddles@riddlesandmore.com" target="mike.grigsby@enron.com" weight="0.0154187987037" />
+      <edge id="303" source="chris.walker@enron.com" target="frank.ermis@enron.com" weight="0.0105616002088" />
+      <edge id="304" source="robert.hawkins@ci.austin.tx.us" target="tori.kuykendall@enron.com" weight="0.0155325430331" />
+      <edge id="305" source="hal@tradedays.org" target="fermis@ect.enron.com" weight="0.0128015632827" />
+      <edge id="306" source="tim.o'rourke@enron.com" target="phillip.allen@enron.com" weight="0.0373527866063" />
+      <edge id="307" source="ericf@apbenergy.com" target="mlenhart@enron.com" weight="0.0230571045178" />
+      <edge id="308" source="naquinscott@yahoo.com" target="ross_berthelot@bankone.com" weight="0.0107247863826" />
+      <edge id="309" source="val.generes@accenture.com" target="mmmarcantel@equiva.com" weight="0.187227397288" />
+      <edge id="310" source="val.generes@accenture.com" target="kevin.a.boone@accenture.com" weight="0.448951079464" />
+      <edge id="311" source="val.generes@accenture.com" target="matthew.lenhart@enron.com" weight="0.30382866797" />
+      <edge id="312" source="val.generes@accenture.com" target="bryan.hull@enron.com" weight="0.505069964397" />
+      <edge id="313" source="ina.rangel@enron.com" target="phillip.allen@enron.com" weight="0.015756393095" />
+      <edge id="314" source="ina.rangel@enron.com" target="mike.grigsby@enron.com" weight="0.0180911913703" />
+      <edge id="315" source="ina.rangel@enron.com" target="tori.kuykendall@enron.com" weight="0.0154474814718" />
+      <edge id="316" source="ina.rangel@enron.com" target="frank.ermis@enron.com" weight="0.0150580908359" />
+      <edge id="317" source="ina.rangel@enron.com" target="jay.reitmeyer@enron.com" weight="0.0146999399712" />
+      <edge id="318" source="ina.rangel@enron.com" target="keith.holst@enron.com" weight="0.0102024780423" />
+      <edge id="319" source="ina.rangel@enron.com" target="jane.tholt@enron.com" weight="0.0153864344335" />
+      <edge id="320" source="yevgeny.frolov@enron.com" target="kenny.w.baldwin@accenture.com" weight="0.0516399593368" />
+      <edge id="321" source="yevgeny.frolov@enron.com" target="brad.coleman@enron.com" weight="0.0685374798434" />
+      <edge id="322" source="yevgeny.frolov@enron.com" target="kirk.mcdaniel@enron.com" weight="0.0685374798434" />
+      <edge id="323" source="yevgeny.frolov@enron.com" target="david.oxley@enron.com" weight="0.0387299695026" />
+      <edge id="324" source="yevgeny.frolov@enron.com" target="michelle.cash@enron.com" weight="0.0387299695026" />
+      <edge id="325" source="yevgeny.frolov@enron.com" target="w.kent.baker@accenture.com" weight="0.0516399593368" />
+      <edge id="326" source="yevgeny.frolov@enron.com" target="tim.o'rourke@enron.com" weight="0.0266885890556" />
+      <edge id="327" source="yevgeny.frolov@enron.com" target="phillip.allen@enron.com" weight="0.0533771781112" />
+      <edge id="328" source="luis.mena@enron.com" target="mmmarcantel@equiva.com" weight="0.04366556305" />
+      <edge id="329" source="luis.mena@enron.com" target="susan.scott@enron.com" weight="0.0233747568357" />
+      <edge id="330" source="luis.mena@enron.com" target="eric.bass@enron.com" weight="0.0438681460868" />
+      <edge id="331" source="luis.mena@enron.com" target="matthew.lenhart@enron.com" weight="0.29647231511" />
+      <edge id="332" source="luis.mena@enron.com" target="lisa.gillette@enron.com" weight="0.0918489813542" />
+      <edge id="333" source="luis.mena@enron.com" target="timothy.blanchard@enron.com" weight="0.049861391306" />
+      <edge id="334" source="luis.mena@enron.com" target="bryan.hull@enron.com" weight="0.0789005823073" />
+      <edge id="335" source="randall.gay@enron.com" target="tori.kuykendall@enron.com" weight="0.0103649245723" />
+      <edge id="336" source="enron.announcements@enron.com" target="ena.employees@enron.com" weight="0.0196684836609" />
+      <edge id="337" source="enron.announcements@enron.com" target="enronoptions.mailing@enron.com" weight="0.0319741536796" />
+      <edge id="338" source="enron.announcements@enron.com" target="clickathome.mailout@enron.com" weight="0.0168719089064" />
+      <edge id="339" source="enron.announcements@enron.com" target="all.houston@enron.com" weight="0.651018080579" />
+      <edge id="340" source="enron.announcements@enron.com" target="all_ena_egm_eim@enron.com" weight="0.0510758371956" />
+      <edge id="341" source="enron.announcements@enron.com" target="all.worldwide@enron.com" weight="0.258311873353" />
+      <edge id="342" source="enron.announcements@enron.com" target="all.downtown@enron.com" weight="0.0175648230223" />
+      <edge id="343" source="enron.announcements@enron.com" target="eligible.employees@enron.com" weight="0.0109617727395" />
+      <edge id="344" source="enron.announcements@enron.com" target="all.states@enron.com" weight="0.0933297093205" />
+      <edge id="345" source="phillip.allen@enron.com" target="andrea.richards@enron.com" weight="0.132756725896" />
+      <edge id="346" source="phillip.allen@enron.com" target="mike.grigsby@enron.com" weight="0.10684039463" />
+      <edge id="347" source="phillip.allen@enron.com" target="lisa.jones@enron.com" weight="0.0271751041193" />
+      <edge id="348" source="phillip.allen@enron.com" target="rickm@wt.net" weight="0.0116853500533" />
+      <edge id="349" source="phillip.allen@enron.com" target="john.lavorato@enron.com" weight="0.0547530855805" />
+      <edge id="350" source="phillip.allen@enron.com" target="yevgeny.frolov@enron.com" weight="0.0694388945543" />
+      <edge id="351" source="phillip.allen@enron.com" target="keith.holst@enron.com" weight="0.111310826813" />
+      <edge id="352" source="phillip.allen@enron.com" target="llewter@austin.rr.com" weight="0.0272985164162" />
+      <edge id="353" source="phillip.allen@enron.com" target="muller@thedoghousemail.com" weight="0.0216191599135" />
+      <edge id="354" source="phillip.allen@enron.com" target="chad.landry@enron.com" weight="0.0194522468769" />
+      <edge id="355" source="phillip.allen@enron.com" target="donald.l.barnhart@accenture.com" weight="0.119646972347" />
+      <edge id="356" source="phillip.allen@enron.com" target="tec@editingco.com" weight="0.0107255676009" />
+      <edge id="357" source="phillip.allen@enron.com" target="jwills3@swbell.net" weight="0.0145492553129" />
+      <edge id="358" source="phillip.allen@enron.com" target="dawn.kenne@enron.com" weight="0.0141987998749" />
+      <edge id="359" source="phillip.allen@enron.com" target="dutch.quigley@enron.com" weight="0.0159350646691" />
+      <edge id="360" source="phillip.allen@enron.com" target="lodonnell@spbank.com" weight="0.0494145335973" />
+      <edge id="361" source="phillip.allen@enron.com" target="barry.tycholiz@enron.com" weight="0.0114038840644" />
+      <edge id="362" source="phillip.allen@enron.com" target="kirk.mcdaniel@enron.com" weight="0.198813774726" />
+      <edge id="363" source="phillip.allen@enron.com" target="tori.kuykendall@enron.com" weight="0.0287397418233" />
+      <edge id="364" source="phillip.allen@enron.com" target="tim.o'rourke@enron.com" weight="0.0603524577078" />
+      <edge id="365" source="phillip.allen@enron.com" target="ceci@gorge.net" weight="0.0170450281747" />
+      <edge id="366" source="phillip.allen@enron.com" target="beth.perlman@enron.com" weight="0.0405419940129" />
+      <edge id="367" source="phillip.allen@enron.com" target="hargr@webtv.net" weight="0.0190448704324" />
+      <edge id="368" source="phillip.allen@enron.com" target="cbpres@austin.rr.com" weight="0.0560149989752" />
+      <edge id="369" source="phillip.allen@enron.com" target="pallen70@hotmail.com" weight="0.0766137971308" />
+      <edge id="370" source="phillip.allen@enron.com" target="patti.sullivan@enron.com" weight="0.0400122074626" />
+      <edge id="371" source="phillip.allen@enron.com" target="jacquestc@aol.com" weight="0.220163983624" />
+      <edge id="372" source="phillip.allen@enron.com" target="slewis2@enron.com" weight="0.0123458390049" />
+      <edge id="373" source="phillip.allen@enron.com" target="ina.rangel@enron.com" weight="0.290017814819" />
+      <edge id="374" source="phillip.allen@enron.com" target="angela.collins@enron.com" weight="0.0179335731785" />
+      <edge id="375" source="phillip.allen@enron.com" target="ed.mcmichael@enron.com" weight="0.0408685357519" />
+      <edge id="376" source="phillip.allen@enron.com" target="monique.sanchez@enron.com" weight="0.0156427331565" />
+      <edge id="377" source="phillip.allen@enron.com" target="mac.d.hargrove@rssmb.com" weight="0.050554146474" />
+      <edge id="378" source="phillip.allen@enron.com" target="bs_stone@yahoo.com" weight="0.0629329793796" />
+      <edge id="379" source="phillip.allen@enron.com" target="jane.tholt@enron.com" weight="0.0171899734476" />
+      <edge id="380" source="phillip.allen@enron.com" target="mark.scott@enron.com" weight="0.0179744575995" />
+      <edge id="381" source="phillip.allen@enron.com" target="stagecoachmama@hotmail.com" weight="0.0159299359344" />
+      <edge id="382" source="phillip.allen@enron.com" target="randall.gay@enron.com" weight="0.0159829703926" />
+      <edge id="383" source="phillip.allen@enron.com" target="outlook.team@enron.com" weight="0.0285025755915" />
+      <edge id="384" source="phillip.allen@enron.com" target="gthorse@keyad.com" weight="0.0231064329577" />
+      <edge id="385" source="phillip.allen@enron.com" target="cooper.richey@enron.com" weight="0.0654704626546" />
+      <edge id="386" source="phillip.allen@enron.com" target="hunter.shively@enron.com" weight="0.0374678454297" />
+      <edge id="387" source="phillip.allen@enron.com" target="joyce.teixeira@enron.com" weight="0.0125535269037" />
+      <edge id="388" source="phillip.allen@enron.com" target="matthew.lenhart@enron.com" weight="0.0462664558724" />
+      <edge id="389" source="phillip.allen@enron.com" target="c..aucoin@enron.com" weight="0.0159350646691" />
+      <edge id="390" source="phillip.allen@enron.com" target="jay.reitmeyer@enron.com" weight="0.02519673114" />
+      <edge id="391" source="phillip.allen@enron.com" target="thomas.martin@enron.com" weight="0.0108072333925" />
+      <edge id="392" source="phillip.allen@enron.com" target="stouchstone@natsource.com" weight="0.0105550031645" />
+      <edge id="393" source="phillip.allen@enron.com" target="matt.smith@enron.com" weight="0.0348612053591" />
+      <edge id="394" source="phillip.allen@enron.com" target="jsmith@austintx.com" weight="0.116971473244" />
+      <edge id="395" source="phillip.allen@enron.com" target="monica.l.brown@accenture.com" weight="0.261187691107" />
+      <edge id="396" source="phillip.allen@enron.com" target="vladimir.gorny@enron.com" weight="0.021023824828" />
+      <edge id="397" source="phillip.allen@enron.com" target="info@geoswan.com" weight="0.0132346892912" />
+      <edge id="398" source="phillip.allen@enron.com" target="maryrichards7@hotmail.com" weight="0.0221350668521" />
+      <edge id="399" source="phillip.allen@enron.com" target="karen.buckley@enron.com" weight="0.0328284379669" />
+      <edge id="400" source="phillip.allen@enron.com" target="frank.ermis@enron.com" weight="0.0516884206366" />
+      <edge id="401" source="phillip.allen@enron.com" target="adrianne.engler@enron.com" weight="0.0129291907998" />
+      <edge id="402" source="phillip.allen@enron.com" target="jacqestc@aol.com" weight="0.0253880945617" />
+      <edge id="403" source="phillip.allen@enron.com" target="mery.l.brown@accenture.com" weight="0.245176618599" />
+      <edge id="404" source="phillip.allen@enron.com" target="kevin.wellenius@frontiereconomics.com" weight="0.0124484090261" />
+      <edge id="405" source="phillip.allen@enron.com" target="andrew.lewis@enron.com" weight="0.0490624154361" />
+      <edge id="406" source="pam_macaul@bmc.com" target="jennifer_lamprecht@oxy.com" weight="0.0125111720745" />
+      <edge id="407" source="frank.ermis@enron.com" target="jay.reitmeyer@enron.com" weight="0.0288021840523" />
+      <edge id="408" source="frank.ermis@enron.com" target="steven.south@enron.com" weight="0.0257171880332" />
+      <edge id="409" source="frank.ermis@enron.com" target="matthew.lenhart@enron.com" weight="0.102868752133" />
+      <edge id="410" source="frank.ermis@enron.com" target="mike.grigsby@enron.com" weight="0.0819735368557" />
+      <edge id="411" source="sahamrx@yahoo.com" target="keith.holst@enron.com" weight="0.0195442826131" />
+      <edge id="412" source="cathy.craven@us.cgeyc.com" target="cathy.craven@us.cgeyc.com" weight="0.0365626075295" />
+      <edge id="413" source="jpetriello@prebon.com" target="jay.reitmeyer@enron.com" weight="0.0571509189319" />
+      <edge id="414" source="jpetriello@prebon.com" target="tori.kuykendall@enron.com" weight="0.0274452003958" />
+      <edge id="415" source="jpetriello@prebon.com" target="jane.tholt@enron.com" weight="0.0274389706653" />
+      <edge id="416" source="public.relations@enron.com" target="all.houston@enron.com" weight="0.0345733938181" />
+      <edge id="417" source="ashackouls@hotmail.com" target="matthew.lenhart@enron.com" weight="0.0191567523184" />
+      <edge id="418" source="lisa@techxans.org" target="phillip.allen@enron.com" weight="0.0141465382902" />
+      <edge id="419" source="tlbrassard@aol.com" target="kholst@enron.com" weight="0.0187675528756" />
+      <edge id="420" source="chairman.ken@enron.com" target="dl-ga-all_enron_worldwide2@enron.com" weight="0.0131878543611" />
+      <edge id="421" source="ecenter@williams.com" target="enl-members-html@estutenws11.energy.williams.com" weight="0.0658148407584" />
+      <edge id="422" source="ecenter@williams.com" target="enl-dailyupdate-txt@estutenws11.energy.williams.com" weight="0.0923355677125" />
+      <edge id="423" source="robert.jones@mailman.enron.com" target="frank.ermis@enron.com" weight="0.0181792435502" />
+      <edge id="424" source="robert.jones@mailman.enron.com" target="jay.reitmeyer@enron.com" weight="0.0139953382148" />
+      <edge id="425" source="robert.jones@mailman.enron.com" target="keith.holst@enron.com" weight="0.0177881708303" />
+      <edge id="426" source="kevin.labban@accenture.com" target="brian.r.vassigh@accenture.com" weight="0.0544014404925" />
+      <edge id="427" source="greetings@reply.yahoo.com" target="jane.tholt@enron.com" weight="0.0368330629991" />
+      <edge id="428" source="laura.osman@travelpark.com" target="jane.tholt@enron.com" weight="0.0315013703448" />
+      <edge id="429" source="louise.kitchen@enron.com" target="john.lavorato@enron.com" weight="0.0128150434857" />
+      <edge id="430" source="jennsreit@houston.rr.com" target="jreitme@enron.com" weight="0.116879657085" />
+      <edge id="431" source="pulhamus@aol.com" target="mbp1832@aol.com" weight="0.0213033578387" />
+      <edge id="432" source="pulhamus@aol.com" target="b2nusbaum@qwest.net" weight="0.0186956473076" />
+      <edge id="433" source="pulhamus@aol.com" target="egongert@aol.com" weight="0.0174682550219" />
+      <edge id="434" source="pulhamus@aol.com" target="matthew.lenhart@enron.com" weight="0.0279252184484" />
+      <edge id="435" source="pulhamus@aol.com" target="tlenhart@corealty.com" weight="0.0115502526472" />
+      <edge id="436" source="jdrmedia1@lists.em5000.com" target="jreitme@enron.com" weight="0.0561722477497" />
+      <edge id="437" source="liz.mendiola@travelpark.com" target="jane.tholt@enron.com" weight="0.150148985522" />
+      <edge id="438" source="samantha.law@enron.com" target="frank.hayden@enron.com" weight="0.0116135001964" />
+      <edge id="439" source="samantha.law@enron.com" target="anne.bike@enron.com" weight="0.0116135001964" />
+      <edge id="440" source="samantha.law@enron.com" target="matthew.lenhart@enron.com" weight="0.0116135001964" />
+      <edge id="441" source="samantha.law@enron.com" target="maria.houten@enron.com" weight="0.0116135001964" />
+      <edge id="442" source="chad.landry@enron.com" target="matthew.lenhart@enron.com" weight="0.0968538977884" />
+      <edge id="443" source="swg_gaspur@swgas.com" target="jane.tholt@enron.com" weight="0.0138052780398" />
+      <edge id="444" source="gerryandjim@earthlink.net" target="jay.reitmeyer@enron.com" weight="0.0116672454962" />
+      <edge id="445" source="jennifersmith@kaseco.com" target="fermis@ect.enron.com" weight="0.0118493935668" />
+      <edge id="446" source="enerfaxdaily@enerfax.com" target="jtholt@enron.com" weight="0.0101994634928" />
+      <edge id="447" source="enerfaxdaily@enerfax.com" target="fermis@enron.com" weight="0.0267648109717" />
+      <edge id="448" source="enerfaxdaily@enerfax.com" target="fermis@ect.enron.com" weight="0.0267648109717" />
+      <edge id="449" source="tbrassard@hhsi.com" target="kholst@enron.com" weight="0.0294177260487" />
+      <edge id="450" source="mwomack@tristargas.com" target="tori.kuykendall@enron.com" weight="0.0129544979322" />
+      <edge id="451" source="mwomack@tristargas.com" target="jcrable@tristargas.com" weight="0.0194317468983" />
+      <edge id="452" source="christa.winfrey@enron.com" target="matthew.lenhart@enron.com" weight="0.198703542893" />
+      <edge id="453" source="ljc76@hotmail.com" target="matthew.lenhart@enron.com" weight="0.0398569394925" />
+      <edge id="454" source="tk.lohman@enron.com" target="jane.tholt@enron.com" weight="0.0217143284075" />
+      <edge id="455" source="moshuffle@hotmail.com" target="tori.kuykendall@enron.com" weight="0.0153824436548" />
+      <edge id="456" source="ralee@rmi.net" target="scott.morrill@grubb-ellis.com" weight="0.0479898900066" />
+      <edge id="457" source="ralee@rmi.net" target="pederleifkjeseth@hotmail.com" weight="0.0363079935368" />
+      <edge id="458" source="ralee@rmi.net" target="matthew.lenhart@enron.com" weight="0.0250698050611" />
+      <edge id="459" source="ralee@rmi.net" target="merlinm@uswest.net" weight="0.0250698050611" />
+      <edge id="460" source="shalperin@houston.rr.com" target="sahamrx@yahoo.com" weight="0.0136125754965" />
+      <edge id="461" source="araceli.romero@enron.com" target="john.lavorato@enron.com" weight="0.0357009744457" />
+      <edge id="462" source="sheri.a.righi@accenture.com" target="michelle.cash@enron.com" weight="0.0446586075406" />
+      <edge id="463" source="sheri.a.righi@accenture.com" target="tim.o'rourke@enron.com" weight="0.0446586075406" />
+      <edge id="464" source="sheri.a.righi@accenture.com" target="phillip.allen@enron.com" weight="0.0446586075406" />
+      <edge id="465" source="sheri.a.righi@accenture.com" target="kirk.mcdaniel@enron.com" weight="0.119089620108" />
+      <edge id="466" source="sheri.a.righi@accenture.com" target="yevgeny.frolov@enron.com" weight="0.0446586075406" />
+      <edge id="467" source="tlenhart@corealty.com" target="matthew.lenhart@enron.com" weight="0.203818924149" />
+      <edge id="468" source="susan.scott@enron.com" target="tori.kuykendall@enron.com" weight="0.0224676360999" />
+      <edge id="469" source="adrianne.engler@enron.com" target="karen.buckley@enron.com" weight="0.0464181577281" />
+      <edge id="470" source="adrianne.engler@enron.com" target="phillip.allen@enron.com" weight="0.0470248261235" />
+      <edge id="471" source="adrianne.engler@enron.com" target="mike.grigsby@enron.com" weight="0.0342225199798" />
+      <edge id="472" source="scott.morrill@grubb-ellis.com" target="pederleifkjeseth@hotmail.com" weight="0.020126418371" />
+      <edge id="473" source="scott.morrill@grubb-ellis.com" target="ralee@rmi.net" weight="0.020126418371" />
+      <edge id="474" source="scott.morrill@grubb-ellis.com" target="matthew.lenhart@enron.com" weight="0.10631338707" />
+      <edge id="475" source="scott.morrill@grubb-ellis.com" target="merlinm@uswest.net" weight="0.020126418371" />
+      <edge id="476" source="timothy.blanchard@enron.com" target="matthew.lenhart@enron.com" weight="0.0118319627071" />
+      <edge id="477" source="bryan.hull@enron.com" target="matthew.lenhart@enron.com" weight="0.114363959987" />
+      <edge id="478" source="t..lucci@enron.com" target="jay.reitmeyer@enron.com" weight="0.0105282218141" />
+      <edge id="479" source="merlinm@uswest.net" target="scott.morrill@grubb-ellis.com" weight="0.0320666951042" />
+      <edge id="480" source="merlinm@uswest.net" target="pederleifkjeseth@hotmail.com" weight="0.0320666951042" />
+      <edge id="481" source="merlinm@uswest.net" target="ralee@rmi.net" weight="0.0320666951042" />
+      <edge id="482" source="merlinm@uswest.net" target="matthew.lenhart@enron.com" weight="0.0766905487496" />
+      <edge id="483" source="merlinm@uswest.net" target="merlinm@uswest.net" weight="0.0143575394541" />
+      <edge id="484" source="sthompson@prosrm.com" target="fermis@ect.enron.com" weight="0.0175883659972" />
+      <edge id="485" source="office.chairman@enron.com" target="all.worldwide@enron.com" weight="0.091852229396" />
+      <edge id="486" source="c..aucoin@enron.com" target="phillip.allen@enron.com" weight="0.106212872075" />
+      <edge id="487" source="c..aucoin@enron.com" target="kirk.mcdaniel@enron.com" weight="0.0708085813836" />
+      <edge id="488" source="stephanie.sever@enron.com" target="matthew.lenhart@enron.com" weight="0.013498854014" />
+      <edge id="489" source="mery.l.brown@accenture.com" target="donald.l.barnhart@accenture.com" weight="0.0124606020644" />
+      <edge id="490" source="mery.l.brown@accenture.com" target="phillip.allen@enron.com" weight="0.0630809952321" />
+      <edge id="491" source="mery.l.brown@accenture.com" target="kmcdani@enron.com" weight="0.0124606020644" />
+      <edge id="492" source="mery.l.brown@accenture.com" target="pallen@enron.com" weight="0.123849845645" />
+      <edge id="493" source="monica.l.brown@accenture.com" target="sheri.a.righi@accenture.com" weight="0.257926381068" />
+      <edge id="494" source="monica.l.brown@accenture.com" target="phillip.allen@enron.com" weight="0.199081489003" />
+      <edge id="495" source="monica.l.brown@accenture.com" target="pallen@enron.com" weight="0.0807921162034" />
+      <edge id="496" source="clcs@email.msn.com" target="matthew.lenhart@enron.com" weight="0.0129120632834" />
+      <edge id="497" source="jilallen@deloitte.com" target="matthew.lenhart@enron.com" weight="0.0846277848958" />
+    </edges>
+  </graph>
+</gexf>

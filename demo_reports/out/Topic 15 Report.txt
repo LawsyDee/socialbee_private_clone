@@ -1,0 +1,21 @@
+Topic 15
+Words: index  new  gas  socal  like  price  day  products  deal  000  physical  market  product  daily  trading  need  week  desk  also  prices
+===Basic Graph Information===
+	Nodes: 1005
+	Edges: 1707
+	Average degree: 1.6985074626865673
+	Density: 0.0016917405006838318
+===Top 3 Author/Recipient Pairs for Topic
+mike.grigsby@enron.com-----anne.bike@enron.com	4.3382971721
+evening@ino.com-----mike.grigsby@enron.com	3.24478400638
+mike.grigsby@enron.com-----melba.lozano@enron.com	2.81074188066
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.151158     192          0.191235  0.051793   0.139442   0.314613    0.052366
+1     mike.grigsby@enron.com     0.296657     183          0.182271  0.061753   0.120518   0.345051    0.058257
+2    jay.reitmeyer@enron.com     0.089876      54          0.053785  0.033865   0.019920   0.290027    0.015446
+3    phillip.allen@enron.com     0.259323     175          0.174303  0.016932   0.157371   0.333457    0.031163
+4     jane.m.tholt@enron.com     0.000524      16          0.015936  0.015936   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.146487      44          0.043825  0.032869   0.010956   0.249047    0.011180
+6      keith.holst@enron.com     0.263813      51          0.050797  0.030876   0.019920   0.241792    0.012375
+7  tori.kuykendall@enron.com     0.156104     131          0.130478  0.035857   0.094622   0.293006    0.031359

@@ -1,0 +1,21 @@
+Topic 6
+Words: tholt  jane  2001  original  november  tori  kuykendall  temptation  evans  ted  island  monday  thanksgiving  chili  maliszewski  jmalisz  qwest  cantrell  john  rebecca
+===Basic Graph Information===
+	Nodes: 591
+	Edges: 1034
+	Average degree: 1.7495769881556684
+	Density: 0.0029653847256875736
+===Top 3 Author/Recipient Pairs for Topic
+m..tholt@enron.com-----ted.evans@enron.com	3.99465589923
+m..tholt@enron.com-----jmalisz@qwest.com	2.8951393332
+jmalisz@qwest.com-----m..tholt@enron.com	2.88232321697
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.006771     126          0.213559  0.061017   0.152542   0.370098    0.061506
+1     mike.grigsby@enron.com     0.027068     126          0.213559  0.059322   0.154237   0.423318    0.075438
+2    jay.reitmeyer@enron.com     0.005405      40          0.067797  0.033898   0.033898   0.290393    0.020898
+3    phillip.allen@enron.com     0.003395     100          0.169492  0.016949   0.152542   0.389145    0.030554
+4     jane.m.tholt@enron.com     0.002436      15          0.025424  0.025424   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.006519      26          0.044068  0.035593   0.008475   0.295965    0.009978
+6      keith.holst@enron.com     0.006956      38          0.064407  0.037288   0.027119   0.298948    0.017116
+7  tori.kuykendall@enron.com     0.011411     124          0.210169  0.055932   0.154237   0.365192    0.053906

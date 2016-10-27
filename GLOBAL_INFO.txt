@@ -1,0 +1,345 @@
+===Global Network Report===
+Source: F:\Data\enron_mail_20150507\maildir\sample
+===Basic Graph Information===
+	Nodes: 6704
+	Edges: 13096
+	Average degree: 1.9534606205250598
+	Density: 0.00029143079524467547
+The following topics were extracted from the data:
+==Topic 0==
+Words: lenhart,matthew,sarofim,erichardson,2001,original,october,erin,richardson,thursday,friday,tuesday,wednesday,imceanotes,nron,recipient,may,intended,think,file
+	===Topic 0 Graph Information===
+	Nodes: 267
+	Edges: 405
+	Average degree: 1.5168539325842696
+	Density: 0.005702458393173946
+==Topic 1==
+Words: energy,company,california,gas,regulated,commission,electric,pacific,referenced,utility,companies,ca,national,group,gov,power,public,utilities,mail,services
+	===Topic 1 Graph Information===
+	Nodes: 539
+	Edges: 751
+	Average degree: 1.3933209647495362
+	Density: 0.0025898159196088033
+==Topic 2==
+Words: going,tonight,tomorrow,game,think,still,guys,denver,woody,everything,golf,lunch,week,work,vegas,party,weekend,thought,car,haven
+	===Topic 2 Graph Information===
+	Nodes: 361
+	Edges: 476
+	Average degree: 1.3185595567867037
+	Density: 0.003662665435518621
+==Topic 3==
+Words: west,report_name,report_cd,current_efct_date,toc_hide,category_cd,category_name,viewing,published,named,2001,website,report,available,corp,ng,basis,prices,positions,desk
+	===Topic 3 Graph Information===
+	Nodes: 332
+	Edges: 558
+	Average degree: 1.680722891566265
+	Density: 0.005077712663342191
+==Topic 4==
+Words: outages,thru,sat,scheduled,2001,fri,london,pager,sun,outage,backout,environments,impacted,server,center,purpose,impact,data,time,contact
+	===Topic 4 Graph Information===
+	Nodes: 339
+	Edges: 482
+	Average degree: 1.4218289085545723
+	Density: 0.0042065944040076105
+==Topic 5==
+Words: intended,recipient,mail,corp,confidential,use,contract,disclosure,prohibited,distribution,attachments,delete,strictly,may,sender,privileged,contain,party,reply,otherwise
+	===Topic 5 Graph Information===
+	Nodes: 502
+	Edges: 698
+	Average degree: 1.3904382470119523
+	Density: 0.002775325842339226
+==Topic 6==
+Words: 2000,forwarded,corp,na,mail,matthew,lenhart,tori,cantrell,rebecca,retraction,parody,filed,concession,kuykendall,election,audio,usa,yahoo,allen
+	===Topic 6 Graph Information===
+	Nodes: 437
+	Edges: 638
+	Average degree: 1.459954233409611
+	Density: 0.0033485188839669977
+==Topic 7==
+Words: go,weekend,night,want,sat,think,town,fun,fri,might,didn,party,last,place,day,home,vegas,game,stay,yeah
+	===Topic 7 Graph Information===
+	Nodes: 524
+	Edges: 714
+	Average degree: 1.3625954198473282
+	Density: 0.0026053449710273964
+==Topic 8==
+Words: request,id,resource,approval,auth,emaillink,click,page,applications,requested,type,upon,pending,please,corp,name,admin,create,permanent,review
+	===Topic 8 Graph Information===
+	Nodes: 482
+	Edges: 655
+	Average degree: 1.3589211618257262
+	Density: 0.002825199920635605
+==Topic 9==
+Words: mike,grigsby,thanks,thank,please,sincerely,ina,anne,desk,original,2001,keith,west,jay,add,holst,positions,reitmeyer,monique,tuesday
+	===Topic 9 Graph Information===
+	Nodes: 597
+	Edges: 951
+	Average degree: 1.592964824120603
+	Density: 0.0026727597720144344
+==Topic 10==
+Words: phillip,allen,forwarded,2001,tim,meeting,hunter,shively,keith,attached,holst,john,heizenrader,austin,2000,strategy,lucy,jeff,pallen,lavorato
+	===Topic 10 Graph Information===
+	Nodes: 414
+	Edges: 610
+	Average degree: 1.4734299516908214
+	Density: 0.0035676270016726905
+==Topic 11==
+Words: pdx,sf,na,enron_development,generation,jim,2001,motley,corp,tim,jeff,new,belden,michael,matt,swerzbin,laird,parquet,mainzer,buerkle
+	===Topic 11 Graph Information===
+	Nodes: 292
+	Edges: 409
+	Average degree: 1.4006849315068493
+	Density: 0.0048133502800922654
+==Topic 12==
+Words: index,gas,new,socal,like,price,deal,day,products,product,physical,market,need,daily,please,000,trading,also,week,desk
+	===Topic 12 Graph Information===
+	Nodes: 1075
+	Edges: 1830
+	Average degree: 1.7023255813953488
+	Density: 0.0015850331297908276
+==Topic 13==
+Words: feedback,pep,process,employee,performance,option,selected,participation,management,important,name,list,complete,thank,access,perfmgmt,requests,4040,may,houston
+	===Topic 13 Graph Information===
+	Nodes: 535
+	Edges: 696
+	Average degree: 1.3009345794392524
+	Density: 0.0024362070776015963
+==Topic 14==
+Words: call,give,tonight,work,number,cell,today,didn,phone,tomorrow,night,back,home,please,sorry,last,try,attorney,later,chance
+	===Topic 14 Graph Information===
+	Nodes: 602
+	Edges: 863
+	Average degree: 1.4335548172757475
+	Density: 0.0023852825578631405
+==Topic 15==
+Words: get,back,chance,need,together,today,send,didn,try,around,week,time,tickets,hope,tomorrow,one,lucy,explorer,see,like
+	===Topic 15 Graph Information===
+	Nodes: 575
+	Edges: 829
+	Average degree: 1.4417391304347826
+	Density: 0.0025117406453567643
+==Topic 16==
+Words: bid,capacity,shipper,northwest,rate,button,select,transportation,bids,prearranged,offer,available,point,screen,receipt,package,delivery,term,want,contract
+	===Topic 16 Graph Information===
+	Nodes: 449
+	Edges: 751
+	Average degree: 1.6726057906458798
+	Density: 0.0037334950684059817
+==Topic 17==
+Words: know,let,need,anything,guys,thanks,else,want,time,work,wanted,meet,think,help,tee,like,questions,something,monday,matt
+	===Topic 17 Graph Information===
+	Nodes: 651
+	Edges: 1150
+	Average degree: 1.7665130568356375
+	Density: 0.00271771239513175
+==Topic 18==
+Words: good,tholt,jane,looks,sounds,temptation,island,evans,november,ted,original,2001,think,like,monday,got,thanksgiving,pretty,one,time
+	===Topic 18 Graph Information===
+	Nodes: 497
+	Edges: 752
+	Average degree: 1.5130784708249496
+	Density: 0.003050561433114818
+==Topic 19==
+Words: accenture,boone,kevin,octel,7940,4149,1638,1619,address,regards,houston,client,lenhart,web,matthew,hull,val,equiva,bryan,mmmarcantel
+	===Topic 19 Graph Information===
+	Nodes: 343
+	Edges: 498
+	Average degree: 1.4518950437317784
+	Density: 0.0042453071454145565
+===Potential Hidden Relationships===
+topics                           user1                           user2
+                  davidn@apbenergy.com               jsmk422@lycos.com
+ 1,3,9              feedback@intcx.com        vince.kaminski@enron.com
+ 7,12,                   curtq@msn.com               trey@hillcast.com
+ 7,12,                   curtq@msn.com               bobmatt35@aol.com
+ 7,12,                   curtq@msn.com       matthew.lenhart@enron.com
+ 7,12,                   curtq@msn.com               brmartin@utmb.edu
+ 7,12,                   curtq@msn.com       gerryandjim@earthlink.net
+ 7,12,               trey@hillcast.com                   curtq@msn.com
+ 7,12,               trey@hillcast.com               bobmatt35@aol.com
+ 7,12,               trey@hillcast.com       matthew.lenhart@enron.com
+ 7,12,               trey@hillcast.com               brmartin@utmb.edu
+ 7,12,               trey@hillcast.com       gerryandjim@earthlink.net
+ 7,12,               bobmatt35@aol.com                   curtq@msn.com
+ 7,12,               bobmatt35@aol.com               trey@hillcast.com
+ 7,12,               bobmatt35@aol.com       matthew.lenhart@enron.com
+ 7,12,               bobmatt35@aol.com               brmartin@utmb.edu
+ 7,12,               bobmatt35@aol.com       gerryandjim@earthlink.net
+ 7,12,       matthew.lenhart@enron.com                   curtq@msn.com
+ 7,12,       matthew.lenhart@enron.com               trey@hillcast.com
+ 7,12,       matthew.lenhart@enron.com               bobmatt35@aol.com
+ 7,12,       matthew.lenhart@enron.com               brmartin@utmb.edu
+ 7,12,       matthew.lenhart@enron.com       gerryandjim@earthlink.net
+ 7,12,               brmartin@utmb.edu                   curtq@msn.com
+ 7,12,               brmartin@utmb.edu               trey@hillcast.com
+ 7,12,               brmartin@utmb.edu               bobmatt35@aol.com
+ 7,12,               brmartin@utmb.edu       matthew.lenhart@enron.com
+ 7,12,               brmartin@utmb.edu       gerryandjim@earthlink.net
+ 7,12,       gerryandjim@earthlink.net                   curtq@msn.com
+ 7,12,       gerryandjim@earthlink.net               trey@hillcast.com
+ 7,12,       gerryandjim@earthlink.net               bobmatt35@aol.com
+ 7,12,       gerryandjim@earthlink.net       matthew.lenhart@enron.com
+ 7,12,       gerryandjim@earthlink.net               brmartin@utmb.edu
+ 7,12,       support-l90@adm.chtah.com                   curtq@msn.com
+ 7,12,       support-l90@adm.chtah.com               trey@hillcast.com
+ 7,12,       support-l90@adm.chtah.com               bobmatt35@aol.com
+ 7,12,       support-l90@adm.chtah.com       matthew.lenhart@enron.com
+ 7,12,       support-l90@adm.chtah.com               brmartin@utmb.edu
+ 7,12,       support-l90@adm.chtah.com       gerryandjim@earthlink.net
+ 1,12,         lisa.jacobson@enron.com       office.chairman@enron.com
+ 0,1,9              p..south@enron.com          ryan.sheeren@enron.com
+ 1,9,1         jeff.dasovich@enron.com              kim.ward@enron.com
+ 1,9,1              kim.ward@enron.com         jeff.dasovich@enron.com
+ 1,9,1            ecenter@williams.com         jeff.dasovich@enron.com
+ 1,9,1            ecenter@williams.com              kim.ward@enron.com
+ 1,5,8                    iraq@iraq.nu            editor@hersweeps.com
+ 1,5,8                    iraq@iraq.nu          mvianna@tradespark.com
+ 1,5,8                    iraq@iraq.nu             sbaird@socalgas.com
+ 1,5,8            editor@hersweeps.com                    iraq@iraq.nu
+ 1,5,8            editor@hersweeps.com          mvianna@tradespark.com
+ 1,5,8            editor@hersweeps.com             sbaird@socalgas.com
+ 1,5,8          mvianna@tradespark.com                    iraq@iraq.nu
+ 1,5,8          mvianna@tradespark.com            editor@hersweeps.com
+ 1,5,8          mvianna@tradespark.com             sbaird@socalgas.com
+ 1,5,8             sbaird@socalgas.com                    iraq@iraq.nu
+ 1,5,8             sbaird@socalgas.com            editor@hersweeps.com
+ 1,5,8             sbaird@socalgas.com          mvianna@tradespark.com
+ 1,5,8         dsanchez@tradespark.com                    iraq@iraq.nu
+ 1,5,8         dsanchez@tradespark.com            editor@hersweeps.com
+ 1,5,8         dsanchez@tradespark.com          mvianna@tradespark.com
+ 1,5,8         dsanchez@tradespark.com             sbaird@socalgas.com
+ 2,5,7                 news@second.org       andrewhescock@hotmail.com
+ 8,12,       abby@mail.discountair.com            sprint@info.iwon.com
+ 8,12,       abby@mail.discountair.com         david.forster@enron.com
+ 8,12,            sprint@info.iwon.com       abby@mail.discountair.com
+ 8,12,            sprint@info.iwon.com         david.forster@enron.com
+ 8,12,         david.forster@enron.com       abby@mail.discountair.com
+ 8,12,         david.forster@enron.com            sprint@info.iwon.com
+ 8,12,       savita.puthigai@enron.com       abby@mail.discountair.com
+ 8,12,       savita.puthigai@enron.com            sprint@info.iwon.com
+ 8,12,       savita.puthigai@enron.com         david.forster@enron.com
+ 5,10,     sheri.a.righi@accenture.com         kirk.mcdaniel@enron.com
+ 1,4,1            sthompson@prosrm.com     annualconference@prosrm.com
+ 0,5,7               merlinm@qwest.net            ccates@mail.lbjs.com
+ 6,8,1      stephanie.miller@enron.com          paul.kaufman@enron.com
+ 1,5,6         smcfadden@igservice.com    jlgreene@energyadvocates.com
+ 4,12,       kimberly.hillis@enron.com            sally.beck@enron.com
+ 1,7,1               mog.heu@enron.com             matt@fastpacket.net
+ 2,12,                    j3ng@aol.com   sblackwell00@aggienetwork.com
+ 9,12,       margaret.daffin@enron.com            aopa_epilot@aopa.org
+ 9,12,            aopa_epilot@aopa.org       margaret.daffin@enron.com
+ 9,12,       brandee.jackson@enron.com       margaret.daffin@enron.com
+ 9,12,       brandee.jackson@enron.com            aopa_epilot@aopa.org
+ 8,12,  1800flowers.234774262@s2u2.com  1800flowers.236320828@s2u2.com
+ 0,6,1   scott.morrill@grubb-ellis.com                   jef070@cs.com
+ 5,8,1        panderson@tradespark.com         laine.lobban@elpaso.com
+ 2,7,1                   brook@pdq.net                pulhamus@aol.com
+ 2,7,1                   brook@pdq.net     anneleuthold@techtvcorp.com
+ 2,7,1                pulhamus@aol.com                   brook@pdq.net
+ 2,7,1                pulhamus@aol.com     anneleuthold@techtvcorp.com
+ 2,7,1     anneleuthold@techtvcorp.com                   brook@pdq.net
+ 2,7,1     anneleuthold@techtvcorp.com                pulhamus@aol.com
+ 2,7,1             vedder_24@yahoo.com                   brook@pdq.net
+ 2,7,1             vedder_24@yahoo.com                pulhamus@aol.com
+ 2,7,1             vedder_24@yahoo.com     anneleuthold@techtvcorp.com
+ 5,12,              sksperling@aol.com               sahamrx@yahoo.com
+ 1,12,             h..foster@enron.com     staff@energyjobsnetwork.com
+ 1,3,5        daniel.quezada@enron.com                aod@newsdata.com
+ 5,7,1   brian.r.vassigh@accenture.com  rmoseley@houston.deepwater.com
+ 5,7,1   brian.r.vassigh@accenture.com       cathy.craven@us.cgeyc.com
+ 5,7,1  rmoseley@houston.deepwater.com   brian.r.vassigh@accenture.com
+ 5,7,1  rmoseley@houston.deepwater.com       cathy.craven@us.cgeyc.com
+ 5,7,1       cathy.craven@us.cgeyc.com   brian.r.vassigh@accenture.com
+ 5,7,1       cathy.craven@us.cgeyc.com  rmoseley@houston.deepwater.com
+ 5,7,1           moshuffle@hotmail.com   brian.r.vassigh@accenture.com
+ 5,7,1           moshuffle@hotmail.com  rmoseley@houston.deepwater.com
+ 5,7,1           moshuffle@hotmail.com       cathy.craven@us.cgeyc.com
+ 1,4,8          deanrodgers@kaseco.com              aopa_news@aopa.org
+ 1,12,             dbmcvick@srpnet.com          chris.foster@enron.com
+ 1,12,          chris.foster@enron.com             dbmcvick@srpnet.com
+ 1,12,         theresa.staab@enron.com             dbmcvick@srpnet.com
+ 1,12,         theresa.staab@enron.com          chris.foster@enron.com
+ 5,6,7              mhawkins@vyvos.com   kenneth.shulklapper@enron.com
+ 1,8,9            fran.chang@enron.com            fang.chang@enron.com
+ 9,10,           john.arnold@enron.com   biliana.pehlivanova@enron.com
+ 9,10,   biliana.pehlivanova@enron.com           john.arnold@enron.com
+ 9,10,      kathryn.sheppard@enron.com           john.arnold@enron.com
+ 9,10,      kathryn.sheppard@enron.com   biliana.pehlivanova@enron.com
+ 1,4,9          amanda.huble@enron.com       amanda.rybarski@enron.com
+ 1,6,1            pabrown@socalgas.com          ken.skilling@enron.com
+ 1,11,              john@pgsenergy.com                   jeffb@tpt.com
+ 1,12,  robert.jones@mailman.enron.com      contact@dew-consulting.com
+ 8,12,  1800flowers.238145886@s2u2.com             janspecials@ino.com
+ 7,8,1     quality@corp.classmates.com              merlinm@uswest.net
+ 4,8,1       glander@skippingstone.com        linda.willis@twcable.com
+ 1,5,1  administration.enron@enron.com         robert_wheeler@dell.com
+ 4,9,1    joannie.williamson@enron.com           rbetonte@socalgas.com
+ 7,9,1       rcboccaccio@earthlink.net           russell.dyk@enron.com
+ 1,5,9     veronica.espinoza@enron.com        michelle.akers@enron.com
+ 1,9,1          hemery@firstunion1.com             jyockey@glgroup.com
+ 1,8,1            gousa6179@hotmail.kg          infousa4492@telkom.net
+ 1,8,1            gousa6179@hotmail.kg         usatoday1430@hotmail.kg
+ 1,8,1          infousa4492@telkom.net            gousa6179@hotmail.kg
+ 1,8,1          infousa4492@telkom.net         usatoday1430@hotmail.kg
+ 1,8,1         usatoday1430@hotmail.kg            gousa6179@hotmail.kg
+ 1,8,1         usatoday1430@hotmail.kg          infousa4492@telkom.net
+ 1,8,1               lisa@techxans.org            gousa6179@hotmail.kg
+ 1,8,1               lisa@techxans.org          infousa4492@telkom.net
+ 1,8,1               lisa@techxans.org         usatoday1430@hotmail.kg
+ 5,7,1              tbrassard@hhsi.com              dla6138201@aol.com
+ 1,7,8      fnamjou@energy.state.ca.us              boba@energy.ca.gov
+ 1,4,1                benledene@aec.ca       paul.bieniawski@enron.com
+ 1,5,6  enron.administration@enron.com   johan.louw@ubspainewebber.com
+ 2,5,1                  gmack@utep.edu               jmalisz@qwest.com
+ 7,12,              football@cnnsi.com           susan.scott@enron.com
+ 7,8,1  exclusive_ofers@sportsline.com  memberservices@travelocity.com
+ 1,8,1          cp-reply@clubphoto.com       donald_mallory@platts.com
+ 0,9,1          ashackouls@hotmail.com       franky.sulistio@enron.com
+ 1,5,1       larry.bautista@elpaso.com        mac.d.hargrove@rssmb.com
+ 1,2,8       lana.belnoske@nesanet.org            kara.lauer@enron.com
+ 7,9,1             novspecials@ino.com         lisa.gillette@enron.com
+ 7,9,1         lisa.gillette@enron.com             novspecials@ino.com
+ 7,9,1         natalie.baker@enron.com             novspecials@ino.com
+ 7,9,1         natalie.baker@enron.com         lisa.gillette@enron.com
+ 5,12,        jennsreit@houston.rr.com       tori.kuykendall@enron.com
+ 1,2,9       kimberly.banner@enron.com           ami.thakkar@enron.com
+ 0,8,9          melba.lozano@enron.com          chris.walker@enron.com
+ 7,12,           po_jack@email.msn.com         brian.hoskins@enron.com
+ 7,12,           po_jack@email.msn.com            jeff.royed@enron.com
+ 7,12,         brian.hoskins@enron.com           po_jack@email.msn.com
+ 7,12,         brian.hoskins@enron.com            jeff.royed@enron.com
+ 7,12,            jeff.royed@enron.com           po_jack@email.msn.com
+ 7,12,            jeff.royed@enron.com         brian.hoskins@enron.com
+ 7,12,      jdrmedia1@lists.em5000.com           po_jack@email.msn.com
+ 7,12,      jdrmedia1@lists.em5000.com         brian.hoskins@enron.com
+ 7,12,      jdrmedia1@lists.em5000.com            jeff.royed@enron.com
+ 1,5,1             ryan.watt@enron.com          susan.hadix@elpaso.com
+ 2,7,1           matt.motley@enron.com     davidsmith@open2win.oi3.net
+ 2,7,1           matt.motley@enron.com               reagantgo@aol.com
+ 2,7,1           matt.motley@enron.com  robert.hawkins@ci.austin.tx.us
+ 2,7,1     davidsmith@open2win.oi3.net           matt.motley@enron.com
+ 2,7,1     davidsmith@open2win.oi3.net               reagantgo@aol.com
+ 2,7,1     davidsmith@open2win.oi3.net  robert.hawkins@ci.austin.tx.us
+ 2,7,1               reagantgo@aol.com           matt.motley@enron.com
+ 2,7,1               reagantgo@aol.com     davidsmith@open2win.oi3.net
+ 2,7,1               reagantgo@aol.com  robert.hawkins@ci.austin.tx.us
+ 2,7,1  robert.hawkins@ci.austin.tx.us           matt.motley@enron.com
+ 2,7,1  robert.hawkins@ci.austin.tx.us     davidsmith@open2win.oi3.net
+ 2,7,1  robert.hawkins@ci.austin.tx.us               reagantgo@aol.com
+ 2,7,1     rob_tom@freenet.carleton.ca           matt.motley@enron.com
+ 2,7,1     rob_tom@freenet.carleton.ca     davidsmith@open2win.oi3.net
+ 2,7,1     rob_tom@freenet.carleton.ca               reagantgo@aol.com
+ 2,7,1     rob_tom@freenet.carleton.ca  robert.hawkins@ci.austin.tx.us
+ 1,6,1          tracy.arthur@enron.com   enron.announcements@enron.com
+ 2,5,7                  i00nlp@fds.com          cathy_morse@foleys.com
+ 2,5,7                  i00nlp@fds.com      jennifer_lamprecht@oxy.com
+ 2,5,7          cathy_morse@foleys.com                  i00nlp@fds.com
+ 2,5,7          cathy_morse@foleys.com      jennifer_lamprecht@oxy.com
+ 2,5,7      jennifer_lamprecht@oxy.com                  i00nlp@fds.com
+ 2,5,7      jennifer_lamprecht@oxy.com          cathy_morse@foleys.com
+ 2,5,7              ceilbeck@yahoo.com                  i00nlp@fds.com
+ 2,5,7              ceilbeck@yahoo.com          cathy_morse@foleys.com
+ 2,5,7              ceilbeck@yahoo.com      jennifer_lamprecht@oxy.com
+ 2,7,1               ljc76@hotmail.com       val.generes@accenture.com
+ 0,9,1              t..lucci@enron.com      kathie.grabstald@enron.com
+ 1,12,         delia@prescottlegal.com     zachary.mccarroll@enron.com

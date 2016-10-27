@@ -1,0 +1,168 @@
+===Global Network Report===
+Source: F:\Data\enron_mail_20150507\maildir\sample
+===Basic Graph Information===
+	Nodes: 7055
+	Edges: 14031
+	Average degree: 1.9888022678951098
+	Density: 0.0002819396467103927
+The following topics were extracted from the data:
+==Topic 0==
+Words: lenhart,matthew,erichardson,sarofim,original,2001,october,erin,richardson,thursday,friday,tuesday,imceanotes,wednesday,nron,recipient,intended,may,file,think
+	===Topic 0 Graph Information===
+	Nodes: 296
+	Edges: 441
+	Average degree: 1.489864864864865
+	Density: 0.005050389372423271
+==Topic 1==
+Words: phillip,allen,forwarded,2001,meeting,tim,hunter,shively,keith,attached,holst,john,heizenrader,austin,strategy,lucy,desk,jeff,please,pallen
+	===Topic 1 Graph Information===
+	Nodes: 408
+	Edges: 617
+	Average degree: 1.5122549019607843
+	Density: 0.0037156140097316568
+==Topic 2==
+Words: know,let,need,go,want,anything,guys,else,think,time,meet,work,wanted,tee,like,something,got,sat,monday,questions
+	===Topic 2 Graph Information===
+	Nodes: 609
+	Edges: 1053
+	Average degree: 1.729064039408867
+	Density: 0.0028438553279751103
+==Topic 3==
+Words: fantasy,sportsline,mp,random,league,script,owner,elink,bige01,players,key,updated,14696,wr,week,game,rb,agent,49699,qb
+	===Topic 3 Graph Information===
+	Nodes: 148
+	Edges: 171
+	Average degree: 1.1554054054054055
+	Density: 0.007859900717043573
+==Topic 4==
+Words: yahoo,news,edit,breaking,alert,1994,alerts,click,privacy,policy,wish,reserved,feedback,longer,rights,unsubscribe,copyright,send,inc,receive
+	===Topic 4 Graph Information===
+	Nodes: 415
+	Edges: 481
+	Average degree: 1.1590361445783133
+	Density: 0.0027996042139572784
+==Topic 5==
+Words: outages,thru,sat,scheduled,2001,fri,london,pager,sun,outage,backout,environments,impacted,server,impact,purpose,center,data,contact,time
+	===Topic 5 Graph Information===
+	Nodes: 326
+	Edges: 431
+	Average degree: 1.322085889570552
+	Density: 0.004067956583294007
+==Topic 6==
+Words: energy,gas,company,california,commission,regulated,ca,gov,electric,utility,referenced,pacific,companies,power,group,national,public,utilities,customers,services
+	===Topic 6 Graph Information===
+	Nodes: 893
+	Edges: 1195
+	Average degree: 1.3381858902575587
+	Density: 0.0015002083971497296
+==Topic 7==
+Words: thanks,index,socal,products,please,physical,gas,product,gd,deal,topock,eol,transport,positions,like,mike,help,desk,basis,need
+	===Topic 7 Graph Information===
+	Nodes: 787
+	Edges: 1350
+	Average degree: 1.7153748411689962
+	Density: 0.0021824107394007586
+==Topic 8==
+Words: going,weekend,tonight,go,think,tomorrow,night,game,town,sat,guys,vegas,party,fun,still,fri,golf,work,wedding,maybe
+	===Topic 8 Graph Information===
+	Nodes: 446
+	Edges: 608
+	Average degree: 1.3632286995515694
+	Density: 0.0030634352798911673
+==Topic 9==
+Words: mike,grigsby,thank,please,sincerely,original,ina,2001,keith,holst,west,jay,reitmeyer,anne,desk,monique,tuesday,trading,much,sanchez
+	===Topic 9 Graph Information===
+	Nodes: 490
+	Edges: 746
+	Average degree: 1.5224489795918368
+	Density: 0.0031133925963023248
+==Topic 10==
+Words: bid,capacity,shipper,northwest,rate,button,transportation,select,bids,prearranged,point,offer,receipt,screen,available,package,term,delivery,pipeline,contract
+	===Topic 10 Graph Information===
+	Nodes: 496
+	Edges: 835
+	Average degree: 1.6834677419354838
+	Density: 0.003400944933202998
+==Topic 11==
+Words: west,report_name,category_name,category_cd,toc_hide,current_efct_date,report_cd,viewing,named,website,published,2001,report,available,corp,ng,basis,prices,desk,positions
+	===Topic 11 Graph Information===
+	Nodes: 366
+	Edges: 598
+	Average degree: 1.633879781420765
+	Density: 0.004476382962796617
+==Topic 12==
+Words: pdx,na,corp,sf,2001,enron_development,jim,generation,motley,jeff,forwarded,michael,belden,tim,robert,alan,steffes,matt,comnes,james
+	===Topic 12 Graph Information===
+	Nodes: 364
+	Edges: 613
+	Average degree: 1.684065934065934
+	Density: 0.004639300093845548
+==Topic 13==
+Words: request,id,resource,approval,auth,emaillink,applications,requested,page,upon,type,pending,click,please,name,corp,admin,create,permanent,review
+	===Topic 13 Graph Information===
+	Nodes: 516
+	Edges: 685
+	Average degree: 1.3275193798449612
+	Density: 0.0025777075336795366
+==Topic 14==
+Words: intended,recipient,mail,corp,confidential,use,contract,prohibited,delete,disclosure,accenture,attachments,distribution,strictly,may,sender,privileged,contain,original,boone
+	===Topic 14 Graph Information===
+	Nodes: 531
+	Edges: 776
+	Average degree: 1.4613935969868173
+	Density: 0.0027573464094090895
+==Topic 15==
+Words: good,tholt,jane,temptation,sounds,looks,island,evans,november,ted,original,think,2001,like,monday,thanksgiving,got,night,pretty,maliszewski
+	===Topic 15 Graph Information===
+	Nodes: 512
+	Edges: 798
+	Average degree: 1.55859375
+	Density: 0.003050085616438356
+==Topic 16==
+Words: feedback,pep,process,employee,performance,option,participation,selected,management,important,name,list,desk,complete,perfmgmt,4040,requests,access,thank,london
+	===Topic 16 Graph Information===
+	Nodes: 467
+	Edges: 620
+	Average degree: 1.3276231263383298
+	Density: 0.002848976665962081
+==Topic 17==
+Words: 2000,forwarded,matthew,lenhart,corp,mail,retraction,parody,concession,election,audio,na,allen,tori,filed,charles,kuykendall,rebecca,cantrell,otto
+	===Topic 17 Graph Information===
+	Nodes: 429
+	Edges: 584
+	Average degree: 1.3613053613053614
+	Density: 0.0031806200030499096
+==Topic 18==
+Words: get,call,give,back,didn,chance,night,work,today,try,want,tomorrow,last,sorry,go,cell,need,got,around,number
+	===Topic 18 Graph Information===
+	Nodes: 676
+	Edges: 1016
+	Average degree: 1.5029585798816567
+	Density: 0.0022266053035283804
+==Topic 19==
+Words: new,week,time,one,today,day,like,please,free,information,click,year,000,may,mail,last,next,houston,two,first
+	===Topic 19 Graph Information===
+	Nodes: 1366
+	Edges: 2090
+	Average degree: 1.5300146412884335
+	Density: 0.0011208898470977534
+===Potential Hidden Relationships===
+[jsmk422@lycos.com] and [davidn@apbenergy.com] may know each other.
+[john@lonestarmedical.com] and [matt.motley@enron.com] may know each other.
+[enerfaxdaily@enerfax.com] and [bounce-otcjournal-707639@lyris.otcjournal.com] may know each other.
+[customerservice@tdwaterhouse.com] and [eservices@tdwaterhouse.com] may know each other.
+[software@mail01.unitedmarketingstrategies.com] and [software@mail02.unitedmarketingstrategies.com] may know each other.
+[mike.roberts@enron.com] and [confadmin@ziffenergy.com] may know each other.
+[jyockey@glgroup.com] and [chairman.ken@enron.com] may know each other.
+[infousa4492@telkom.net] and [usatoday1430@hotmail.kg] may know each other.
+[usatoday1430@hotmail.kg] and [infousa4492@telkom.net] may know each other.
+[gousa6179@hotmail.kg] and [infousa4492@telkom.net] may know each other.
+[gousa6179@hotmail.kg] and [usatoday1430@hotmail.kg] may know each other.
+[bluechipbrands@m-ul.com] and [bluechipbrands2@m-ul.com] may know each other.
+[fang.chang@enron.com] and [fran.chang@enron.com] may know each other.
+[travel@support.expedia.com] and [continental_airlines_inc@coair.rsc01.com] may know each other.
+[prizemachine@feedback.iwon.com] and [gifts@info.iwon.com] may know each other.
+[kirk.mcdaniel@enron.com] and [sheri.a.righi@accenture.com] may know each other.
+[newsletter@pussylickingcunts.com] and [oportunity@cells4free.com] may know each other.
+[susan.hadix@elpaso.com] and [andrea.stein@robertwalters.com] may know each other.
+[gmack@utep.edu] and [brian.r.vassigh@accenture.com] may know each other.

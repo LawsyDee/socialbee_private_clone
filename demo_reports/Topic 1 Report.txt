@@ -1,0 +1,21 @@
+Topic 1
+Words: energy  company  california  gas  regulated  commission  electric  pacific  referenced  utility  companies  ca  national  group  gov  power  public  utilities  mail  services
+===Basic Graph Information===
+	Nodes: 539
+	Edges: 751
+	Average degree: 1.3933209647495362
+	Density: 0.0025898159196088033
+===Top 3 Author/Recipient Pairs for Topic
+phillip.allen@enron.com-----mike.grigsby@enron.com	1.28665165219
+phillip.allen@enron.com-----keith.holst@enron.com	1.1763807072
+enron.announcements@enron.com-----all.houston@enron.com	1.13561323396
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     100          0.185874  0.044610   0.141264   0.297426    0.036692
+    mike.grigsby@enron.com            0      81          0.150558  0.053903   0.096654   0.291973    0.038826
+   jay.reitmeyer@enron.com            0      26          0.048327  0.031599   0.016729   0.199982    0.010960
+   phillip.allen@enron.com            0     108          0.200743  0.039033   0.161710   0.320850    0.040901
+    jane.m.tholt@enron.com            0      25          0.046468  0.029740   0.016729   0.210811    0.007141
+     frank.ermis@enron.com            0      17          0.031599  0.022305   0.009294   0.217620    0.004866
+     keith.holst@enron.com            0      42          0.078067  0.026022   0.052045   0.221472    0.012238
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

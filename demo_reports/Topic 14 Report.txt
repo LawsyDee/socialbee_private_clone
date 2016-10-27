@@ -1,0 +1,21 @@
+Topic 14
+Words: call  give  tonight  work  number  cell  today  didn  phone  tomorrow  night  back  home  please  sorry  last  try  attorney  later  chance
+===Basic Graph Information===
+	Nodes: 602
+	Edges: 863
+	Average degree: 1.4335548172757475
+	Density: 0.0023852825578631405
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	4.58944827815
+matthew.lenhart@enron.com-----erichardson@sarofim.com	3.38450809024
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	2.17112906957
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     139          0.231281  0.046589   0.184692   0.352477    0.058457
+    mike.grigsby@enron.com            0     107          0.178037  0.048253   0.129784   0.367861    0.058225
+   jay.reitmeyer@enron.com            0      25          0.041597  0.034942   0.006656   0.241826    0.012398
+   phillip.allen@enron.com            0     141          0.234609  0.028286   0.206323   0.393092    0.052074
+    jane.m.tholt@enron.com            0      25          0.041597  0.029950   0.011647   0.266323    0.011583
+     frank.ermis@enron.com            0      31          0.051581  0.033278   0.018303   0.267567    0.013951
+     keith.holst@enron.com            0      72          0.119800  0.019967   0.099834   0.318405    0.025605
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

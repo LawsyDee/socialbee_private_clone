@@ -1,0 +1,21 @@
+Topic 13
+Words: feedback  pep  process  employee  performance  option  selected  participation  management  important  name  list  complete  thank  access  perfmgmt  requests  4040  may  houston
+===Basic Graph Information===
+	Nodes: 535
+	Edges: 696
+	Average degree: 1.3009345794392524
+	Density: 0.0024362070776015963
+===Top 3 Author/Recipient Pairs for Topic
+perfmgmt@enron.com-----frank.ermis@enron.com	7.16635062379
+perfmgmt@enron.com-----jane.tholt@enron.com	5.88753498336
+enron.announcements@enron.com-----all.houston@enron.com	1.92800961238
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0      89          0.166667  0.033708   0.132959   0.296654    0.032548
+    mike.grigsby@enron.com            0      90          0.168539  0.043071   0.125468   0.329345    0.041066
+   jay.reitmeyer@enron.com            0      19          0.035581  0.022472   0.013109   0.217891    0.006780
+   phillip.allen@enron.com            0     124          0.232210  0.031835   0.200375   0.353784    0.044249
+    jane.m.tholt@enron.com            0      21          0.039326  0.028090   0.011236   0.233927    0.007338
+     frank.ermis@enron.com            0      19          0.035581  0.022472   0.013109   0.241255    0.006187
+     keith.holst@enron.com            0      47          0.088015  0.026217   0.061798   0.249989    0.017454
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

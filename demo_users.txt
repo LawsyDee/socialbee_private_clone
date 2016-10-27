@@ -1,0 +1,8 @@
+'matthew.lenhart@enron.com',
+'mike.grigsby@enron.com',
+'jay.reitmeyer@enron.com',
+'phillip.allen@enron.com',
+'jane.m.tholt@enron.com',
+'frank.ermis@enron.com',
+'keith.holst@enron.com',
+'tori.kuykendall@enron.com'

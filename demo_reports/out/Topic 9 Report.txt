@@ -1,0 +1,21 @@
+Topic 9
+Words: thanks  help  please  send  ina  mike  rangel  info  looks  questions  nice  sending  need  access  check  card  great  number  matt  information
+===Basic Graph Information===
+	Nodes: 685
+	Edges: 1071
+	Average degree: 1.5635036496350365
+	Density: 0.00228582404917403
+===Top 3 Author/Recipient Pairs for Topic
+mike.grigsby@enron.com-----anne.bike@enron.com	3.96047031495
+mike.grigsby@enron.com-----ina.rangel@enron.com	2.82438298955
+mike.grigsby@enron.com-----melba.lozano@enron.com	2.19990809917
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.148483     121          0.176901  0.039474   0.137427   0.321585    0.041854
+1     mike.grigsby@enron.com     0.230273     165          0.241228  0.057018   0.184211   0.371031    0.071869
+2    jay.reitmeyer@enron.com     0.127222      42          0.061404  0.038012   0.023392   0.251687    0.015911
+3    phillip.allen@enron.com     0.129331      93          0.135965  0.016082   0.119883   0.317707    0.020402
+4     jane.m.tholt@enron.com     0.001047      12          0.017544  0.017544   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.122592      28          0.040936  0.033626   0.007310   0.205005    0.011961
+6      keith.holst@enron.com     0.161171      29          0.042398  0.032164   0.010234   0.179817    0.008074
+7  tori.kuykendall@enron.com     0.183001     102          0.149123  0.033626   0.115497   0.329290    0.028688

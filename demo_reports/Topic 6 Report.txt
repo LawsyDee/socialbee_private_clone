@@ -1,0 +1,21 @@
+Topic 6
+Words: 2000  forwarded  corp  na  mail  matthew  lenhart  tori  cantrell  rebecca  retraction  parody  filed  concession  kuykendall  election  audio  usa  yahoo  allen
+===Basic Graph Information===
+	Nodes: 437
+	Edges: 638
+	Average degree: 1.459954233409611
+	Density: 0.0033485188839669977
+===Top 3 Author/Recipient Pairs for Topic
+phillip.allen@enron.com-----ina.rangel@enron.com	5.091284796
+matthew.lenhart@enron.com-----tlenhart@corealty.com	3.48835093643
+phillip.allen@enron.com-----mike.grigsby@enron.com	2.59780695805
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     122          0.279817  0.061927   0.217890   0.364718    0.057756
+    mike.grigsby@enron.com            0      63          0.144495  0.034404   0.110092   0.348628    0.024994
+   jay.reitmeyer@enron.com            0      20          0.045872  0.025229   0.020642   0.270762    0.014277
+   phillip.allen@enron.com            0      87          0.199541  0.036697   0.162844   0.383741    0.039110
+    jane.m.tholt@enron.com            0      17          0.038991  0.032110   0.006881   0.196103    0.007295
+     frank.ermis@enron.com            0      14          0.032110  0.027523   0.004587   0.257370    0.008043
+     keith.holst@enron.com            0      63          0.144495  0.036697   0.107798   0.321325    0.025973
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

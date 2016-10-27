@@ -1,0 +1,21 @@
+Topic 7
+Words: go  weekend  night  want  sat  think  town  fun  fri  might  didn  party  last  place  day  home  vegas  game  stay  yeah
+===Basic Graph Information===
+	Nodes: 524
+	Edges: 714
+	Average degree: 1.3625954198473282
+	Density: 0.0026053449710273964
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	7.1301175839
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	5.32740165948
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	5.02413087524
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     191          0.365201  0.072658   0.292543   0.418770    0.093911
+    mike.grigsby@enron.com            0      81          0.154876  0.053537   0.101338   0.388897    0.059676
+   jay.reitmeyer@enron.com            0      23          0.043977  0.024857   0.019120   0.262327    0.012617
+   phillip.allen@enron.com            0      80          0.152964  0.021033   0.131931   0.371088    0.039553
+    jane.m.tholt@enron.com            0      17          0.032505  0.021033   0.011472   0.009560    0.001664
+     frank.ermis@enron.com            0      17          0.032505  0.022945   0.009560   0.258929    0.007114
+     keith.holst@enron.com            0      88          0.168260  0.036329   0.131931   0.397138    0.045576
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

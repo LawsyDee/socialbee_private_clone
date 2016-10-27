@@ -1,0 +1,21 @@
+Topic 17
+Words: know  let  need  anything  guys  thanks  else  want  time  work  wanted  meet  think  help  tee  like  questions  something  monday  matt
+===Basic Graph Information===
+	Nodes: 651
+	Edges: 1150
+	Average degree: 1.7665130568356375
+	Density: 0.00271771239513175
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----mmmarcantel@equiva.com	5.9224735967
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	2.92058142487
+matthew.lenhart@enron.com-----erichardson@sarofim.com	2.5770587582
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     180          0.276923  0.061538   0.215385   0.421923    0.074426
+    mike.grigsby@enron.com            0     148          0.227692  0.063077   0.164615   0.439937    0.073088
+   jay.reitmeyer@enron.com            0      48          0.073846  0.041538   0.032308   0.377909    0.026061
+   phillip.allen@enron.com            0     145          0.223077  0.049231   0.173846   0.411441    0.058902
+    jane.m.tholt@enron.com            0      32          0.049231  0.044615   0.004615   0.003077    0.000756
+     frank.ermis@enron.com            0      34          0.052308  0.040000   0.012308   0.293106    0.013049
+     keith.holst@enron.com            0     121          0.186154  0.046154   0.140000   0.389659    0.048975
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

@@ -1,0 +1,120 @@
+                                                ar_pair   Topic 0
+9090  erichardson@sarofim.com,matthew.lenhart@enron.com  0.091494
+8698  scott.morrill@grubb-ellis.com,pederleifkjeseth...  0.055609
+8699        scott.morrill@grubb-ellis.com,ralee@rmi.net  0.055609
+8701   scott.morrill@grubb-ellis.com,merlinm@uswest.net  0.055609
+5264  matthew.lenhart@enron.com,erichardson@sarofim.com  0.053608
+                                                 ar_pair   Topic 1
+13052        linda.mitchell@neg.pge.com,fermis@enron.com  0.163656
+7706   melanie.hunter@neg.pge.com,llightfoot@coral-en...  0.153751
+7523          melanie.hunter@neg.pge.com,murrinnl@bp.com  0.152947
+7711       melanie.hunter@neg.pge.com,derekaberle@aec.ca  0.152947
+7531      melanie.hunter@neg.pge.com,bmolitor@igires.com  0.152417
+                                                ar_pair   Topic 2
+4934    matthew.lenhart@enron.com,sliknight@hotmail.com  0.124795
+5239       matthew.lenhart@enron.com,clcs@email.msn.com  0.102632
+5011  matthew.lenhart@enron.com,kevin.boone@accentur...  0.081627
+1883  barry.tycholiz@enron.com,jonathan.mckay@enron.com  0.076680
+1884     barry.tycholiz@enron.com,keith.holst@enron.com  0.076680
+                                                ar_pair   Topic 3
+7754     kam.keiser@enron.com,ashley.worthing@enron.com  0.245903
+7759  kam.keiser@enron.com,biliana.pehlivanova@enron...  0.245903
+7767        kam.keiser@enron.com,randy.bhatia@enron.com  0.245903
+7769         kam.keiser@enron.com,monte.jones@enron.com  0.245903
+9353  ryan.o'rourke@enron.com,biliana.pehlivanova@en...  0.245903
+                                                ar_pair   Topic 4
+9589  enron.announcements@enron.com,houston.report@e...  0.221531
+6420        jane.tholt@enron.com,janet.wallis@enron.com  0.062737
+4125  notifications.isc@enron.com,users.dl-enron@enr...  0.048632
+3356  notification.isc@enron.com,users.dl-enron@enro...  0.044310
+5005  matthew.lenhart@enron.com,jennifer_harris_r@li...  0.037344
+                                               ar_pair   Topic 5
+6488   hshaver@utilicorp.com,tori.kuykendall@enron.com  0.173002
+3215        apkpcp@prodigy.net,phillip.allen@enron.com  0.156488
+9624       tracy@texexenergy.com,keith.holst@enron.com  0.155204
+1941    jschniedernd@hotmail.com,keith.holst@enron.com  0.152385
+12554  jilallen@deloitte.com,matthew.lenhart@enron.com  0.148998
+                                                ar_pair   Topic 6
+3401        mike.grigsby@enron.com,carey.metz@enron.com  0.130428
+6386  jane.tholt@enron.com,kenneth.shulklapper@enron...  0.127357
+5186      matthew.lenhart@enron.com,mlenhart@alltel.com  0.126260
+8491            phillip.allen@enron.com,sneal@enron.com  0.117261
+7012    sarah.novosel@enron.com,phillip.allen@enron.com  0.101012
+                                                ar_pair   Topic 7
+5161         matthew.lenhart@enron.com,darrah@enron.com  0.086906
+5078  matthew.lenhart@enron.com,jilallen@bastion.dtt...  0.082058
+432   tori.kuykendall@enron.com,michael.etringer@enr...  0.079586
+5040  matthew.lenhart@enron.com,knightsherri@hotmail...  0.077713
+5008          matthew.lenhart@enron.com,allen@enron.com  0.073685
+                                                 ar_pair   Topic 8
+11120  arsystem@mailman.enron.com,phillip.allen@enron...  0.297010
+11125  arsystem@mailman.enron.com,phillip.k.allen@enr...  0.251712
+11124  arsystem@mailman.enron.com,approval.eol.gas.tr...  0.236360
+7913     ina.rangel@enron.com,arsystem@mailman.enron.com  0.216777
+11121  arsystem@mailman.enron.com,mike.grigsby@enron.com  0.176059
+                                             ar_pair   Topic 9
+3454  mike.grigsby@enron.com,kristin.walsh@enron.com  0.197790
+3411   mike.grigsby@enron.com,kacee.downey@enron.com  0.190881
+3392    mike.grigsby@enron.com,becky.young@enron.com  0.164412
+8528         phillip.allen@enron.com,ywang@enron.com  0.158788
+3359   mike.grigsby@enron.com,chris.walker@enron.com  0.146447
+                                                ar_pair  Topic 10
+8442           phillip.allen@enron.com,dennisjr@ev1.net  0.180756
+8460            phillip.allen@enron.com,denisjr@ev1.net  0.180756
+8410     phillip.allen@enron.com,russ.whitton@enron.com  0.146854
+8518       phillip.allen@enron.com,mark.whitt@enron.com  0.146854
+8415  phillip.allen@enron.com,8774820206@pagenetmess...  0.109492
+                                                ar_pair  Topic 11
+2976       tim.belden@enron.com,phillip.allen@enron.com  0.248805
+5263  matthew.lenhart@enron.com,stephanie.miller@enr...  0.246793
+8364      phillip.allen@enron.com,tara.piazze@enron.com  0.123861
+8407   phillip.allen@enron.com,barry.tycholiz@enron.com  0.106021
+5243     matthew.lenhart@enron.com,matt.smith@enron.com  0.087618
+                                              ar_pair  Topic 12
+256        enerfax@lb.bcentral.com,mlenhart@enron.com  0.091661
+834            evening@ino.com,mike.grigsby@enron.com  0.091142
+3375    mike.grigsby@enron.com,mike.grigsby@enron.com  0.087428
+8328  phillip.allen@enron.com,jeffrey.hodge@enron.com  0.087117
+8342             phillip.allen@enron.com,lkuch@mh.com  0.083459
+                                           ar_pair  Topic 13
+6328     perfmgmt@enron.com,mike.grigsby@enron.com  0.315824
+6331           perfmgmt@enron.com,pallen@enron.com  0.312782
+6329  perfmgmt@enron.com,tori.kuykendall@enron.com  0.306551
+6327  perfmgmt@enron.com,matthew.lenhart@enron.com  0.273429
+6332       perfmgmt@enron.com,jane.tholt@enron.com  0.267615
+                                                ar_pair  Topic 14
+9092         kim.ward@enron.com,phillip.allen@enron.com  0.151064
+6602  bboudrea@midsouth.rr.com,matthew.lenhart@enron...  0.131945
+5252  matthew.lenhart@enron.com,tisenhour@tigernatur...  0.105298
+6400        jane.tholt@enron.com,jack.boatman@enron.com  0.104824
+4347    keith.holst@enron.com,andrewhescock@hotmail.com  0.101605
+                                                ar_pair  Topic 15
+4982    matthew.lenhart@enron.com,roger.ponce@enron.com  0.108505
+5028         matthew.lenhart@enron.com,bcambr@lsuhc.com  0.094249
+5191         matthew.lenhart@enron.com,jpelti@lsuhc.com  0.094249
+4868    matthew.lenhart@enron.com,toni.graham@enron.com  0.089284
+466   tori.kuykendall@enron.com,phillip.allen@enron.com  0.088517
+                                                ar_pair  Topic 16
+8989              miki.bode@williams.com,bhall@cngc.com  0.290886
+9049            miki.bode@williams.com,sgillit@cngc.com  0.290886
+1058     marvin.l.stevens@williams.com,cmcgra@puget.com  0.290461
+1059  marvin.l.stevens@williams.com,val_yildirok@pgn...  0.290461
+1060    marvin.l.stevens@williams.com,dlh@nwnatural.com  0.290461
+                                                ar_pair  Topic 17
+4862  matthew.lenhart@enron.com,jennifer.walker@enro...  0.137691
+3445   mike.grigsby@enron.com,christa.winfrey@enron.com  0.106395
+6428         jane.tholt@enron.com,julie.gomez@enron.com  0.096866
+9613    philip.polsky@enron.com,phillip.allen@enron.com  0.096117
+9093          kim.ward@enron.com,mike.grigsby@enron.com  0.092441
+                                              ar_pair  Topic 18
+5119   matthew.lenhart@enron.com,carey.metz@enron.com  0.268105
+497        tori.kuykendall@enron.com,tbroderi@czn.com  0.199469
+6429         jane.tholt@enron.com,ted.evans@enron.com  0.163687
+6451  jane.tholt@enron.com,laura.osman@travelpark.com  0.136264
+3985         ted.evans@enron.com,jane.tholt@enron.com  0.126737
+                                                ar_pair  Topic 19
+4759  kevin.a.boone@accenture.com,lisa.gillette@enro...  0.283679
+4755  kevin.a.boone@accenture.com,val.generes@accent...  0.270559
+4758  kevin.a.boone@accenture.com,kevin.a.boone@acce...  0.268017
+4757  kevin.a.boone@accenture.com,matthew.lenhart@en...  0.233048
+4756  kevin.a.boone@accenture.com,chad.landry@enron.com  0.232668

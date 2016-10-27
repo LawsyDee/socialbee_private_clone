@@ -1,0 +1,21 @@
+Topic 18
+Words: good  tholt  jane  looks  sounds  temptation  island  evans  november  ted  original  2001  think  like  monday  got  thanksgiving  pretty  one  time
+===Basic Graph Information===
+	Nodes: 497
+	Edges: 752
+	Average degree: 1.5130784708249496
+	Density: 0.003050561433114818
+===Top 3 Author/Recipient Pairs for Topic
+jane.tholt@enron.com-----ted.evans@enron.com	4.09216402818
+matthew.lenhart@enron.com-----lisa.gillette@enron.com	3.45374309427
+matthew.lenhart@enron.com-----shirley.s.elliott@citicorp.com	3.02888820015
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0     159          0.320565  0.078629   0.241935   0.393913    0.100307
+    mike.grigsby@enron.com            0      87          0.175403  0.046371   0.129032   0.438777    0.070707
+   jay.reitmeyer@enron.com            0      32          0.064516  0.038306   0.026210   0.295601    0.032843
+   phillip.allen@enron.com            0      94          0.189516  0.026210   0.163306   0.444902    0.052304
+    jane.m.tholt@enron.com            0      20          0.040323  0.026210   0.014113   0.223586    0.013760
+     frank.ermis@enron.com            0      21          0.042339  0.020161   0.022177   0.310525    0.014078
+     keith.holst@enron.com            0     100          0.201613  0.046371   0.155242   0.405767    0.066404
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

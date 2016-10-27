@@ -1,0 +1,21 @@
+Topic 3
+Words: west  category_name  category_cd  report_cd  report_name  current_efct_date  toc_hide  viewing  published  named  website  2001  report  available  corp  ng  basis  prices  positions  desk
+===Basic Graph Information===
+	Nodes: 338
+	Edges: 564
+	Average degree: 1.668639053254438
+	Density: 0.004951451196600706
+===Top 3 Author/Recipient Pairs for Topic
+kam.keiser@enron.com-----mike.grigsby@enron.com	2.83318094636
+ryan.o'rourke@enron.com-----mike.grigsby@enron.com	1.10540094654
+ryan.o'rourke@enron.com-----ryan.o'rourke@enron.com	0.832827454863
+===Network Data for Selected Users===
+                        Node   Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com  2.624866e-01      75          0.222552  0.059347   0.163205   0.362118    0.039024
+1     mike.grigsby@enron.com  5.771000e-01     103          0.305638  0.059347   0.246291   0.420985    0.056268
+2    jay.reitmeyer@enron.com  2.731068e-01      19          0.056380  0.041543   0.014837   0.268320    0.006633
+3    phillip.allen@enron.com  9.656396e-02      72          0.213650  0.014837   0.198813   0.378141    0.025060
+4     jane.m.tholt@enron.com  1.109778e-17       2          0.005935  0.005935   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com  1.754967e-01      13          0.038576  0.035608   0.002967   0.002967    0.000442
+6      keith.holst@enron.com  2.380798e-01      28          0.083086  0.053412   0.029674   0.270871    0.009779
+7  tori.kuykendall@enron.com  1.956280e-01      38          0.112760  0.041543   0.071217   0.309078    0.016560

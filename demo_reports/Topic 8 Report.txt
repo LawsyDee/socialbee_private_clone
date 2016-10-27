@@ -1,0 +1,21 @@
+Topic 8
+Words: request  id  resource  approval  auth  emaillink  click  page  applications  requested  type  upon  pending  please  corp  name  admin  create  permanent  review
+===Basic Graph Information===
+	Nodes: 482
+	Edges: 655
+	Average degree: 1.3589211618257262
+	Density: 0.002825199920635605
+===Top 3 Author/Recipient Pairs for Topic
+arsystem@mailman.enron.com-----phillip.allen@enron.com	8.31629074564
+phillip.allen@enron.com-----ina.rangel@enron.com	3.60650522527
+arsystem@mailman.enron.com-----approval.eol.gas.traders@enron.com	1.65452106495
+===Network Data for Selected Users===
+                      Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+ matthew.lenhart@enron.com            0      88          0.182952  0.041580   0.141372   0.296290    0.033019
+    mike.grigsby@enron.com            0      69          0.143451  0.043659   0.099792   0.304666    0.031952
+   jay.reitmeyer@enron.com            0      16          0.033264  0.027027   0.006237   0.203350    0.005371
+   phillip.allen@enron.com            0     120          0.249480  0.039501   0.209979   0.343507    0.043809
+    jane.m.tholt@enron.com            0      12          0.024948  0.024948   0.000000   0.000000    0.000000
+     frank.ermis@enron.com            0      12          0.024948  0.016632   0.008316   0.203590    0.001144
+     keith.holst@enron.com            0      49          0.101871  0.022869   0.079002   0.264075    0.015178
+ tori.kuykendall@enron.com            0       0                 0         0          0          0           0

@@ -1,0 +1,21 @@
+Topic 13
+Words: mail  yahoo  internet  usa  2000  2001  matthew  lenhart  ryan  forwarded  lee  home  rmi  ralee  david  april  send  brian  scott  knight
+===Basic Graph Information===
+	Nodes: 677
+	Edges: 945
+	Average degree: 1.395864106351551
+	Density: 0.0020648877312892766
+===Top 3 Author/Recipient Pairs for Topic
+matthew.lenhart@enron.com-----chad.landry@enron.com	3.82106255004
+matthew.lenhart@enron.com-----tlenhart@corealty.com	3.41567743169
+matthew.lenhart@enron.com-----jay.reitmeyer@enron.com	3.37686548729
+===Network Data for Selected Users===
+                        Node  Eigenvector  Degree  DegreeCentrality  InDegree  OutDegree  Closeness  Betweeness
+0  matthew.lenhart@enron.com     0.211599     204          0.301775  0.071006   0.230769   0.346182    0.078035
+1     mike.grigsby@enron.com     0.080431      79          0.116864  0.041420   0.075444   0.301443    0.044451
+2    jay.reitmeyer@enron.com     0.334711      36          0.053254  0.029586   0.023669   0.259449    0.013431
+3    phillip.allen@enron.com     0.019466      62          0.091716  0.011834   0.079882   0.292988    0.014275
+4     jane.m.tholt@enron.com     0.000029      16          0.023669  0.023669   0.000000   0.000000    0.000000
+5      frank.ermis@enron.com     0.054132      19          0.028107  0.020710   0.007396   0.237167    0.005259
+6      keith.holst@enron.com     0.013210      25          0.036982  0.026627   0.010355   0.167538    0.011115
+7  tori.kuykendall@enron.com     0.060112     110          0.162722  0.041420   0.121302   0.288070    0.041190
